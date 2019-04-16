@@ -1,0 +1,2184 @@
+=========== Flight Plan start  =========== Sun Apr 14 13:35:45 2019
+FlightPath: route= ADEP/CYMX/06-TAMKO-MATOR-DICEN-CHARLEVOIX-RIVIEREDULOUP-LOMSI-RESNO-NETKI-NIBOG-BELFAST-DUFFY-RINGA-SLYDA-ISLEOFMAN-KELLY-PENIL-ASNIP-MANCHESTER-DISAL-NAPEX-DOLAS-ENITO-DIBAL-BUKUT-LAMSO-EVELI-BASNO-PAMPUS-IVLUT-LUNIX-RENDI-EDUPO-NAPRO-DEPAD-AMOSU-MISGO-COLA-ROLIS-ADES/EDDF/25C
+WayPointsDatabase: file folder= C:\Users\PASTOR Robert\workspace\FlightDynamics-3.7\Home\Environment
+WayPointsDatabase: file path= C:\Users\PASTOR Robert\workspace\FlightDynamics-3.7\Home\Environment\WayPoints.xls
+AirportsDatabase: file folder= C:\Users\PASTOR Robert\workspace\FlightDynamics-3.7\Home\Environment
+AirportsDatabase: file path= C:\Users\PASTOR Robert\workspace\FlightDynamics-3.7\Home\Environment\Airports.csv
+RunWayDataBase: file folder= C:\Users\PASTOR Robert\workspace\FlightDynamics-3.7\Home\Environment
+RunWayDataBase: file path= C:\Users\PASTOR Robert\workspace\FlightDynamics-3.7\Home\Environment\RunWays.xls
+C:\Users\PASTOR Robert\workspace\FlightDynamics-3.7\Home\Environment\RunWays.xls
+FlightPath: departure airport= Airport: Airport: CYMX - Canada - Montreal-Montreal Intl Mirabel - lat= 45.68 degrees - long= -74.01 degrees - field elevation= 82.30 meters
+FlightPath: departure runway= RunWay: runway= 06 airport ICAO code= CYMX length= 12000.00 feet true heading= 45.40 degrees latitude= 45.67 degrees longitude= -74.02 degrees
+FlightPath: arrival airport= Airport: Airport: EDDF - Germany - Frankfurt-Frankfurt Main - lat= 50.03 degrees - long= 8.54 degrees - field elevation= 110.95 meters
+FlightPath: arrival runway= RunWay: runway= 25C airport ICAO code= EDDF length= 13123.00 feet true heading= 249.60 degrees latitude= 50.05 degrees longitude= 8.59 degrees
+FlightPath: fix= TAMKO
+FlightPath============ index = 0 ===========
+FlightPath: fix= MATOR
+Airport: Airport: CYMX - Canada - Montreal-Montreal Intl Mirabel - lat= 45.68 degrees - long= -74.01 degrees - field elevation= 82.30 meters
+TAMKO - latitude= 46.05 degrees - longitude= -73.91 degrees - altitudeMSL= 0.00 meters
+MATOR - latitude= 46.35 degrees - longitude= -73.34 degrees - altitudeMSL= 0.00 meters
+FlightPath: Montreal-Montreal Intl Mirabel - TAMKO - MATOR
+FlightPath: first angle= 10.14 degrees and second angle= 52.47 degrees
+FlightPath: difference= 42.33 degrees
+FlightPath: WARNING - angle difference=  42.33 greater to 30.00 degrees
+FlightPath============ index = 1 ===========
+FlightPath: fix= DICEN
+TAMKO - latitude= 46.05 degrees - longitude= -73.91 degrees - altitudeMSL= 0.00 meters
+MATOR - latitude= 46.35 degrees - longitude= -73.34 degrees - altitudeMSL= 0.00 meters
+DICEN - latitude= 46.80 degrees - longitude= -72.29 degrees - altitudeMSL= 0.00 meters
+FlightPath: TAMKO - MATOR - DICEN
+FlightPath: first angle= 52.47 degrees and second angle= 57.68 degrees
+FlightPath: difference= 5.21 degrees
+FlightPath============ index = 2 ===========
+FlightPath: fix= CHARLEVOIX
+MATOR - latitude= 46.35 degrees - longitude= -73.34 degrees - altitudeMSL= 0.00 meters
+DICEN - latitude= 46.80 degrees - longitude= -72.29 degrees - altitudeMSL= 0.00 meters
+CHARLEVOIX - latitude= 47.62 degrees - longitude= -70.32 degrees - altitudeMSL= 0.00 meters
+FlightPath: MATOR - DICEN - CHARLEVOIX
+FlightPath: first angle= 57.68 degrees and second angle= 57.61 degrees
+FlightPath: difference= -0.07 degrees
+FlightPath============ index = 3 ===========
+FlightPath: fix= RIVIEREDULOUP
+DICEN - latitude= 46.80 degrees - longitude= -72.29 degrees - altitudeMSL= 0.00 meters
+CHARLEVOIX - latitude= 47.62 degrees - longitude= -70.32 degrees - altitudeMSL= 0.00 meters
+RIVIEREDULOUP - latitude= 47.76 degrees - longitude= -69.59 degrees - altitudeMSL= 0.00 meters
+FlightPath: DICEN - CHARLEVOIX - RIVIEREDULOUP
+FlightPath: first angle= 57.61 degrees and second angle= 74.53 degrees
+FlightPath: difference= 16.93 degrees
+FlightPath============ index = 4 ===========
+FlightPath: fix= LOMSI
+CHARLEVOIX - latitude= 47.62 degrees - longitude= -70.32 degrees - altitudeMSL= 0.00 meters
+RIVIEREDULOUP - latitude= 47.76 degrees - longitude= -69.59 degrees - altitudeMSL= 0.00 meters
+LOMSI - latitude= 53.10 degrees - longitude= -56.78 degrees - altitudeMSL= 0.00 meters
+FlightPath: CHARLEVOIX - RIVIEREDULOUP - LOMSI
+FlightPath: first angle= 74.53 degrees and second angle= 51.95 degrees
+FlightPath: difference= -22.58 degrees
+FlightPath============ index = 5 ===========
+FlightPath: fix= RESNO
+RIVIEREDULOUP - latitude= 47.76 degrees - longitude= -69.59 degrees - altitudeMSL= 0.00 meters
+LOMSI - latitude= 53.10 degrees - longitude= -56.78 degrees - altitudeMSL= 0.00 meters
+RESNO - latitude= 55.00 degrees - longitude= -15.00 degrees - altitudeMSL= 0.00 meters
+FlightPath: RIVIEREDULOUP - LOMSI - RESNO
+FlightPath: first angle= 51.95 degrees and second angle= 68.60 degrees
+FlightPath: difference= 16.64 degrees
+FlightPath============ index = 6 ===========
+FlightPath: fix= NETKI
+LOMSI - latitude= 53.10 degrees - longitude= -56.78 degrees - altitudeMSL= 0.00 meters
+RESNO - latitude= 55.00 degrees - longitude= -15.00 degrees - altitudeMSL= 0.00 meters
+NETKI - latitude= 55.00 degrees - longitude= -14.00 degrees - altitudeMSL= 0.00 meters
+FlightPath: LOMSI - RESNO - NETKI
+FlightPath: first angle= 68.60 degrees and second angle= 89.59 degrees
+FlightPath: difference= 21.00 degrees
+FlightPath============ index = 7 ===========
+FlightPath: fix= NIBOG
+RESNO - latitude= 55.00 degrees - longitude= -15.00 degrees - altitudeMSL= 0.00 meters
+NETKI - latitude= 55.00 degrees - longitude= -14.00 degrees - altitudeMSL= 0.00 meters
+NIBOG - latitude= 55.00 degrees - longitude= -10.00 degrees - altitudeMSL= 0.00 meters
+FlightPath: RESNO - NETKI - NIBOG
+FlightPath: first angle= 89.59 degrees and second angle= 88.36 degrees
+FlightPath: difference= -1.23 degrees
+FlightPath============ index = 8 ===========
+FlightPath: fix= BELFAST
+NETKI - latitude= 55.00 degrees - longitude= -14.00 degrees - altitudeMSL= 0.00 meters
+NIBOG - latitude= 55.00 degrees - longitude= -10.00 degrees - altitudeMSL= 0.00 meters
+BELFAST - latitude= 54.66 degrees - longitude= -6.23 degrees - altitudeMSL= 0.00 meters
+FlightPath: NETKI - NIBOG - BELFAST
+FlightPath: first angle= 88.36 degrees and second angle= 97.32 degrees
+FlightPath: difference= 8.96 degrees
+FlightPath============ index = 9 ===========
+FlightPath: fix= DUFFY
+NIBOG - latitude= 55.00 degrees - longitude= -10.00 degrees - altitudeMSL= 0.00 meters
+BELFAST - latitude= 54.66 degrees - longitude= -6.23 degrees - altitudeMSL= 0.00 meters
+DUFFY - latitude= 54.51 degrees - longitude= -5.86 degrees - altitudeMSL= 0.00 meters
+FlightPath: NIBOG - BELFAST - DUFFY
+FlightPath: first angle= 97.32 degrees and second angle= 124.25 degrees
+FlightPath: difference= 26.92 degrees
+FlightPath: WARNING - distance between BELFAST and DUFFY less than 20 Nm = 15.58
+FlightPath============ index = 10 ===========
+FlightPath: fix= RINGA
+BELFAST - latitude= 54.66 degrees - longitude= -6.23 degrees - altitudeMSL= 0.00 meters
+DUFFY - latitude= 54.51 degrees - longitude= -5.86 degrees - altitudeMSL= 0.00 meters
+RINGA - latitude= 54.40 degrees - longitude= -5.57 degrees - altitudeMSL= 0.00 meters
+FlightPath: BELFAST - DUFFY - RINGA
+FlightPath: first angle= 124.25 degrees and second angle= 124.53 degrees
+FlightPath: difference= 0.28 degrees
+FlightPath: WARNING - distance between BELFAST and DUFFY less than 20 Nm = 15.58
+FlightPath: WARNING - distance between DUFFY and RINGA less than 20 Nm = 12.31
+FlightPath============ index = 11 ===========
+FlightPath: fix= SLYDA
+DUFFY - latitude= 54.51 degrees - longitude= -5.86 degrees - altitudeMSL= 0.00 meters
+RINGA - latitude= 54.40 degrees - longitude= -5.57 degrees - altitudeMSL= 0.00 meters
+SLYDA - latitude= 54.20 degrees - longitude= -5.09 degrees - altitudeMSL= 0.00 meters
+FlightPath: DUFFY - RINGA - SLYDA
+FlightPath: first angle= 124.53 degrees and second angle= 124.75 degrees
+FlightPath: difference= 0.22 degrees
+FlightPath: WARNING - distance between DUFFY and RINGA less than 20 Nm = 12.31
+FlightPath============ index = 12 ===========
+FlightPath: fix= ISLEOFMAN
+RINGA - latitude= 54.40 degrees - longitude= -5.57 degrees - altitudeMSL= 0.00 meters
+SLYDA - latitude= 54.20 degrees - longitude= -5.09 degrees - altitudeMSL= 0.00 meters
+ISLEOFMAN - latitude= 54.07 degrees - longitude= -4.76 degrees - altitudeMSL= 0.00 meters
+FlightPath: RINGA - SLYDA - ISLEOFMAN
+FlightPath: first angle= 124.75 degrees and second angle= 125.13 degrees
+FlightPath: difference= 0.38 degrees
+FlightPath: WARNING - distance between SLYDA and ISLEOFMAN less than 20 Nm = 13.98
+FlightPath============ index = 13 ===========
+FlightPath: fix= KELLY
+SLYDA - latitude= 54.20 degrees - longitude= -5.09 degrees - altitudeMSL= 0.00 meters
+ISLEOFMAN - latitude= 54.07 degrees - longitude= -4.76 degrees - altitudeMSL= 0.00 meters
+KELLY - latitude= 53.91 degrees - longitude= -4.36 degrees - altitudeMSL= 0.00 meters
+FlightPath: SLYDA - ISLEOFMAN - KELLY
+FlightPath: first angle= 125.13 degrees and second angle= 124.38 degrees
+FlightPath: difference= -0.76 degrees
+FlightPath: WARNING - distance between SLYDA and ISLEOFMAN less than 20 Nm = 13.98
+FlightPath: WARNING - distance between ISLEOFMAN and KELLY less than 20 Nm = 17.13
+FlightPath============ index = 14 ===========
+FlightPath: fix= PENIL
+ISLEOFMAN - latitude= 54.07 degrees - longitude= -4.76 degrees - altitudeMSL= 0.00 meters
+KELLY - latitude= 53.91 degrees - longitude= -4.36 degrees - altitudeMSL= 0.00 meters
+PENIL - latitude= 53.62 degrees - longitude= -3.66 degrees - altitudeMSL= 0.00 meters
+FlightPath: ISLEOFMAN - KELLY - PENIL
+FlightPath: first angle= 124.38 degrees and second angle= 124.67 degrees
+FlightPath: difference= 0.29 degrees
+FlightPath: WARNING - distance between ISLEOFMAN and KELLY less than 20 Nm = 17.13
+FlightPath============ index = 15 ===========
+FlightPath: fix= ASNIP
+KELLY - latitude= 53.91 degrees - longitude= -4.36 degrees - altitudeMSL= 0.00 meters
+PENIL - latitude= 53.62 degrees - longitude= -3.66 degrees - altitudeMSL= 0.00 meters
+ASNIP - latitude= 53.48 degrees - longitude= -2.91 degrees - altitudeMSL= 0.00 meters
+FlightPath: KELLY - PENIL - ASNIP
+FlightPath: first angle= 124.67 degrees and second angle= 106.67 degrees
+FlightPath: difference= -17.99 degrees
+FlightPath============ index = 16 ===========
+FlightPath: fix= MANCHESTER
+PENIL - latitude= 53.62 degrees - longitude= -3.66 degrees - altitudeMSL= 0.00 meters
+ASNIP - latitude= 53.48 degrees - longitude= -2.91 degrees - altitudeMSL= 0.00 meters
+MANCHESTER - latitude= 53.36 degrees - longitude= -2.26 degrees - altitudeMSL= 0.00 meters
+FlightPath: PENIL - ASNIP - MANCHESTER
+FlightPath: first angle= 106.67 degrees and second angle= 107.29 degrees
+FlightPath: difference= 0.62 degrees
+FlightPath============ index = 17 ===========
+FlightPath: fix= DISAL
+ASNIP - latitude= 53.48 degrees - longitude= -2.91 degrees - altitudeMSL= 0.00 meters
+MANCHESTER - latitude= 53.36 degrees - longitude= -2.26 degrees - altitudeMSL= 0.00 meters
+DISAL - latitude= 53.29 degrees - longitude= -1.63 degrees - altitudeMSL= 0.00 meters
+FlightPath: ASNIP - MANCHESTER - DISAL
+FlightPath: first angle= 107.29 degrees and second angle= 99.62 degrees
+FlightPath: difference= -7.68 degrees
+FlightPath============ index = 18 ===========
+FlightPath: fix= NAPEX
+MANCHESTER - latitude= 53.36 degrees - longitude= -2.26 degrees - altitudeMSL= 0.00 meters
+DISAL - latitude= 53.29 degrees - longitude= -1.63 degrees - altitudeMSL= 0.00 meters
+NAPEX - latitude= 53.21 degrees - longitude= -0.86 degrees - altitudeMSL= 0.00 meters
+FlightPath: MANCHESTER - DISAL - NAPEX
+FlightPath: first angle= 99.62 degrees and second angle= 100.15 degrees
+FlightPath: difference= 0.53 degrees
+FlightPath============ index = 19 ===========
+FlightPath: fix= DOLAS
+DISAL - latitude= 53.29 degrees - longitude= -1.63 degrees - altitudeMSL= 0.00 meters
+NAPEX - latitude= 53.21 degrees - longitude= -0.86 degrees - altitudeMSL= 0.00 meters
+DOLAS - latitude= 52.98 degrees - longitude= 1.00 degrees - altitudeMSL= 0.00 meters
+FlightPath: DISAL - NAPEX - DOLAS
+FlightPath: first angle= 100.15 degrees and second angle= 100.77 degrees
+FlightPath: difference= 0.62 degrees
+FlightPath============ index = 20 ===========
+FlightPath: fix= ENITO
+NAPEX - latitude= 53.21 degrees - longitude= -0.86 degrees - altitudeMSL= 0.00 meters
+DOLAS - latitude= 52.98 degrees - longitude= 1.00 degrees - altitudeMSL= 0.00 meters
+ENITO - latitude= 52.80 degrees - longitude= 2.47 degrees - altitudeMSL= 0.00 meters
+FlightPath: NAPEX - DOLAS - ENITO
+FlightPath: first angle= 100.77 degrees and second angle= 100.74 degrees
+FlightPath: difference= -0.03 degrees
+FlightPath============ index = 21 ===========
+FlightPath: fix= DIBAL
+DOLAS - latitude= 52.98 degrees - longitude= 1.00 degrees - altitudeMSL= 0.00 meters
+ENITO - latitude= 52.80 degrees - longitude= 2.47 degrees - altitudeMSL= 0.00 meters
+DIBAL - latitude= 52.80 degrees - longitude= 2.50 degrees - altitudeMSL= 0.00 meters
+FlightPath: WARNING - distance between ENITO and DIBAL less than 10 Nm = 1.21
+FlightPath: fix suppressed= DIBAL
+FlightPath: start the whole loop again from the very beginning 
+FlightPath: fix= TAMKO
+FlightPath============ index = 0 ===========
+FlightPath: fix= MATOR
+Airport: Airport: CYMX - Canada - Montreal-Montreal Intl Mirabel - lat= 45.68 degrees - long= -74.01 degrees - field elevation= 82.30 meters
+TAMKO - latitude= 46.05 degrees - longitude= -73.91 degrees - altitudeMSL= 0.00 meters
+MATOR - latitude= 46.35 degrees - longitude= -73.34 degrees - altitudeMSL= 0.00 meters
+FlightPath: Montreal-Montreal Intl Mirabel - TAMKO - MATOR
+FlightPath: first angle= 10.14 degrees and second angle= 52.47 degrees
+FlightPath: difference= 42.33 degrees
+FlightPath: WARNING - angle difference=  42.33 greater to 30.00 degrees
+FlightPath============ index = 1 ===========
+FlightPath: fix= DICEN
+TAMKO - latitude= 46.05 degrees - longitude= -73.91 degrees - altitudeMSL= 0.00 meters
+MATOR - latitude= 46.35 degrees - longitude= -73.34 degrees - altitudeMSL= 0.00 meters
+DICEN - latitude= 46.80 degrees - longitude= -72.29 degrees - altitudeMSL= 0.00 meters
+FlightPath: TAMKO - MATOR - DICEN
+FlightPath: first angle= 52.47 degrees and second angle= 57.68 degrees
+FlightPath: difference= 5.21 degrees
+FlightPath============ index = 2 ===========
+FlightPath: fix= CHARLEVOIX
+MATOR - latitude= 46.35 degrees - longitude= -73.34 degrees - altitudeMSL= 0.00 meters
+DICEN - latitude= 46.80 degrees - longitude= -72.29 degrees - altitudeMSL= 0.00 meters
+CHARLEVOIX - latitude= 47.62 degrees - longitude= -70.32 degrees - altitudeMSL= 0.00 meters
+FlightPath: MATOR - DICEN - CHARLEVOIX
+FlightPath: first angle= 57.68 degrees and second angle= 57.61 degrees
+FlightPath: difference= -0.07 degrees
+FlightPath============ index = 3 ===========
+FlightPath: fix= RIVIEREDULOUP
+DICEN - latitude= 46.80 degrees - longitude= -72.29 degrees - altitudeMSL= 0.00 meters
+CHARLEVOIX - latitude= 47.62 degrees - longitude= -70.32 degrees - altitudeMSL= 0.00 meters
+RIVIEREDULOUP - latitude= 47.76 degrees - longitude= -69.59 degrees - altitudeMSL= 0.00 meters
+FlightPath: DICEN - CHARLEVOIX - RIVIEREDULOUP
+FlightPath: first angle= 57.61 degrees and second angle= 74.53 degrees
+FlightPath: difference= 16.93 degrees
+FlightPath============ index = 4 ===========
+FlightPath: fix= LOMSI
+CHARLEVOIX - latitude= 47.62 degrees - longitude= -70.32 degrees - altitudeMSL= 0.00 meters
+RIVIEREDULOUP - latitude= 47.76 degrees - longitude= -69.59 degrees - altitudeMSL= 0.00 meters
+LOMSI - latitude= 53.10 degrees - longitude= -56.78 degrees - altitudeMSL= 0.00 meters
+FlightPath: CHARLEVOIX - RIVIEREDULOUP - LOMSI
+FlightPath: first angle= 74.53 degrees and second angle= 51.95 degrees
+FlightPath: difference= -22.58 degrees
+FlightPath============ index = 5 ===========
+FlightPath: fix= RESNO
+RIVIEREDULOUP - latitude= 47.76 degrees - longitude= -69.59 degrees - altitudeMSL= 0.00 meters
+LOMSI - latitude= 53.10 degrees - longitude= -56.78 degrees - altitudeMSL= 0.00 meters
+RESNO - latitude= 55.00 degrees - longitude= -15.00 degrees - altitudeMSL= 0.00 meters
+FlightPath: RIVIEREDULOUP - LOMSI - RESNO
+FlightPath: first angle= 51.95 degrees and second angle= 68.60 degrees
+FlightPath: difference= 16.64 degrees
+FlightPath============ index = 6 ===========
+FlightPath: fix= NETKI
+LOMSI - latitude= 53.10 degrees - longitude= -56.78 degrees - altitudeMSL= 0.00 meters
+RESNO - latitude= 55.00 degrees - longitude= -15.00 degrees - altitudeMSL= 0.00 meters
+NETKI - latitude= 55.00 degrees - longitude= -14.00 degrees - altitudeMSL= 0.00 meters
+FlightPath: LOMSI - RESNO - NETKI
+FlightPath: first angle= 68.60 degrees and second angle= 89.59 degrees
+FlightPath: difference= 21.00 degrees
+FlightPath============ index = 7 ===========
+FlightPath: fix= NIBOG
+RESNO - latitude= 55.00 degrees - longitude= -15.00 degrees - altitudeMSL= 0.00 meters
+NETKI - latitude= 55.00 degrees - longitude= -14.00 degrees - altitudeMSL= 0.00 meters
+NIBOG - latitude= 55.00 degrees - longitude= -10.00 degrees - altitudeMSL= 0.00 meters
+FlightPath: RESNO - NETKI - NIBOG
+FlightPath: first angle= 89.59 degrees and second angle= 88.36 degrees
+FlightPath: difference= -1.23 degrees
+FlightPath============ index = 8 ===========
+FlightPath: fix= BELFAST
+NETKI - latitude= 55.00 degrees - longitude= -14.00 degrees - altitudeMSL= 0.00 meters
+NIBOG - latitude= 55.00 degrees - longitude= -10.00 degrees - altitudeMSL= 0.00 meters
+BELFAST - latitude= 54.66 degrees - longitude= -6.23 degrees - altitudeMSL= 0.00 meters
+FlightPath: NETKI - NIBOG - BELFAST
+FlightPath: first angle= 88.36 degrees and second angle= 97.32 degrees
+FlightPath: difference= 8.96 degrees
+FlightPath============ index = 9 ===========
+FlightPath: fix= DUFFY
+NIBOG - latitude= 55.00 degrees - longitude= -10.00 degrees - altitudeMSL= 0.00 meters
+BELFAST - latitude= 54.66 degrees - longitude= -6.23 degrees - altitudeMSL= 0.00 meters
+DUFFY - latitude= 54.51 degrees - longitude= -5.86 degrees - altitudeMSL= 0.00 meters
+FlightPath: NIBOG - BELFAST - DUFFY
+FlightPath: first angle= 97.32 degrees and second angle= 124.25 degrees
+FlightPath: difference= 26.92 degrees
+FlightPath: WARNING - distance between BELFAST and DUFFY less than 20 Nm = 15.58
+FlightPath============ index = 10 ===========
+FlightPath: fix= RINGA
+BELFAST - latitude= 54.66 degrees - longitude= -6.23 degrees - altitudeMSL= 0.00 meters
+DUFFY - latitude= 54.51 degrees - longitude= -5.86 degrees - altitudeMSL= 0.00 meters
+RINGA - latitude= 54.40 degrees - longitude= -5.57 degrees - altitudeMSL= 0.00 meters
+FlightPath: BELFAST - DUFFY - RINGA
+FlightPath: first angle= 124.25 degrees and second angle= 124.53 degrees
+FlightPath: difference= 0.28 degrees
+FlightPath: WARNING - distance between BELFAST and DUFFY less than 20 Nm = 15.58
+FlightPath: WARNING - distance between DUFFY and RINGA less than 20 Nm = 12.31
+FlightPath============ index = 11 ===========
+FlightPath: fix= SLYDA
+DUFFY - latitude= 54.51 degrees - longitude= -5.86 degrees - altitudeMSL= 0.00 meters
+RINGA - latitude= 54.40 degrees - longitude= -5.57 degrees - altitudeMSL= 0.00 meters
+SLYDA - latitude= 54.20 degrees - longitude= -5.09 degrees - altitudeMSL= 0.00 meters
+FlightPath: DUFFY - RINGA - SLYDA
+FlightPath: first angle= 124.53 degrees and second angle= 124.75 degrees
+FlightPath: difference= 0.22 degrees
+FlightPath: WARNING - distance between DUFFY and RINGA less than 20 Nm = 12.31
+FlightPath============ index = 12 ===========
+FlightPath: fix= ISLEOFMAN
+RINGA - latitude= 54.40 degrees - longitude= -5.57 degrees - altitudeMSL= 0.00 meters
+SLYDA - latitude= 54.20 degrees - longitude= -5.09 degrees - altitudeMSL= 0.00 meters
+ISLEOFMAN - latitude= 54.07 degrees - longitude= -4.76 degrees - altitudeMSL= 0.00 meters
+FlightPath: RINGA - SLYDA - ISLEOFMAN
+FlightPath: first angle= 124.75 degrees and second angle= 125.13 degrees
+FlightPath: difference= 0.38 degrees
+FlightPath: WARNING - distance between SLYDA and ISLEOFMAN less than 20 Nm = 13.98
+FlightPath============ index = 13 ===========
+FlightPath: fix= KELLY
+SLYDA - latitude= 54.20 degrees - longitude= -5.09 degrees - altitudeMSL= 0.00 meters
+ISLEOFMAN - latitude= 54.07 degrees - longitude= -4.76 degrees - altitudeMSL= 0.00 meters
+KELLY - latitude= 53.91 degrees - longitude= -4.36 degrees - altitudeMSL= 0.00 meters
+FlightPath: SLYDA - ISLEOFMAN - KELLY
+FlightPath: first angle= 125.13 degrees and second angle= 124.38 degrees
+FlightPath: difference= -0.76 degrees
+FlightPath: WARNING - distance between SLYDA and ISLEOFMAN less than 20 Nm = 13.98
+FlightPath: WARNING - distance between ISLEOFMAN and KELLY less than 20 Nm = 17.13
+FlightPath============ index = 14 ===========
+FlightPath: fix= PENIL
+ISLEOFMAN - latitude= 54.07 degrees - longitude= -4.76 degrees - altitudeMSL= 0.00 meters
+KELLY - latitude= 53.91 degrees - longitude= -4.36 degrees - altitudeMSL= 0.00 meters
+PENIL - latitude= 53.62 degrees - longitude= -3.66 degrees - altitudeMSL= 0.00 meters
+FlightPath: ISLEOFMAN - KELLY - PENIL
+FlightPath: first angle= 124.38 degrees and second angle= 124.67 degrees
+FlightPath: difference= 0.29 degrees
+FlightPath: WARNING - distance between ISLEOFMAN and KELLY less than 20 Nm = 17.13
+FlightPath============ index = 15 ===========
+FlightPath: fix= ASNIP
+KELLY - latitude= 53.91 degrees - longitude= -4.36 degrees - altitudeMSL= 0.00 meters
+PENIL - latitude= 53.62 degrees - longitude= -3.66 degrees - altitudeMSL= 0.00 meters
+ASNIP - latitude= 53.48 degrees - longitude= -2.91 degrees - altitudeMSL= 0.00 meters
+FlightPath: KELLY - PENIL - ASNIP
+FlightPath: first angle= 124.67 degrees and second angle= 106.67 degrees
+FlightPath: difference= -17.99 degrees
+FlightPath============ index = 16 ===========
+FlightPath: fix= MANCHESTER
+PENIL - latitude= 53.62 degrees - longitude= -3.66 degrees - altitudeMSL= 0.00 meters
+ASNIP - latitude= 53.48 degrees - longitude= -2.91 degrees - altitudeMSL= 0.00 meters
+MANCHESTER - latitude= 53.36 degrees - longitude= -2.26 degrees - altitudeMSL= 0.00 meters
+FlightPath: PENIL - ASNIP - MANCHESTER
+FlightPath: first angle= 106.67 degrees and second angle= 107.29 degrees
+FlightPath: difference= 0.62 degrees
+FlightPath============ index = 17 ===========
+FlightPath: fix= DISAL
+ASNIP - latitude= 53.48 degrees - longitude= -2.91 degrees - altitudeMSL= 0.00 meters
+MANCHESTER - latitude= 53.36 degrees - longitude= -2.26 degrees - altitudeMSL= 0.00 meters
+DISAL - latitude= 53.29 degrees - longitude= -1.63 degrees - altitudeMSL= 0.00 meters
+FlightPath: ASNIP - MANCHESTER - DISAL
+FlightPath: first angle= 107.29 degrees and second angle= 99.62 degrees
+FlightPath: difference= -7.68 degrees
+FlightPath============ index = 18 ===========
+FlightPath: fix= NAPEX
+MANCHESTER - latitude= 53.36 degrees - longitude= -2.26 degrees - altitudeMSL= 0.00 meters
+DISAL - latitude= 53.29 degrees - longitude= -1.63 degrees - altitudeMSL= 0.00 meters
+NAPEX - latitude= 53.21 degrees - longitude= -0.86 degrees - altitudeMSL= 0.00 meters
+FlightPath: MANCHESTER - DISAL - NAPEX
+FlightPath: first angle= 99.62 degrees and second angle= 100.15 degrees
+FlightPath: difference= 0.53 degrees
+FlightPath============ index = 19 ===========
+FlightPath: fix= DOLAS
+DISAL - latitude= 53.29 degrees - longitude= -1.63 degrees - altitudeMSL= 0.00 meters
+NAPEX - latitude= 53.21 degrees - longitude= -0.86 degrees - altitudeMSL= 0.00 meters
+DOLAS - latitude= 52.98 degrees - longitude= 1.00 degrees - altitudeMSL= 0.00 meters
+FlightPath: DISAL - NAPEX - DOLAS
+FlightPath: first angle= 100.15 degrees and second angle= 100.77 degrees
+FlightPath: difference= 0.62 degrees
+FlightPath============ index = 20 ===========
+FlightPath: fix= ENITO
+NAPEX - latitude= 53.21 degrees - longitude= -0.86 degrees - altitudeMSL= 0.00 meters
+DOLAS - latitude= 52.98 degrees - longitude= 1.00 degrees - altitudeMSL= 0.00 meters
+ENITO - latitude= 52.80 degrees - longitude= 2.47 degrees - altitudeMSL= 0.00 meters
+FlightPath: NAPEX - DOLAS - ENITO
+FlightPath: first angle= 100.77 degrees and second angle= 100.74 degrees
+FlightPath: difference= -0.03 degrees
+FlightPath============ index = 21 ===========
+FlightPath: fix= BUKUT
+DOLAS - latitude= 52.98 degrees - longitude= 1.00 degrees - altitudeMSL= 0.00 meters
+ENITO - latitude= 52.80 degrees - longitude= 2.47 degrees - altitudeMSL= 0.00 meters
+BUKUT - latitude= 52.76 degrees - longitude= 2.80 degrees - altitudeMSL= 0.00 meters
+FlightPath: DOLAS - ENITO - BUKUT
+FlightPath: first angle= 100.74 degrees and second angle= 101.93 degrees
+FlightPath: difference= 1.19 degrees
+FlightPath: WARNING - distance between ENITO and BUKUT less than 20 Nm = 12.38
+FlightPath============ index = 22 ===========
+FlightPath: fix= LAMSO
+ENITO - latitude= 52.80 degrees - longitude= 2.47 degrees - altitudeMSL= 0.00 meters
+BUKUT - latitude= 52.76 degrees - longitude= 2.80 degrees - altitudeMSL= 0.00 meters
+LAMSO - latitude= 52.73 degrees - longitude= 2.99 degrees - altitudeMSL= 0.00 meters
+FlightPath: WARNING - distance between BUKUT and LAMSO less than 10 Nm = 7.22
+FlightPath: fix suppressed= LAMSO
+FlightPath: start the whole loop again from the very beginning 
+FlightPath: fix= TAMKO
+FlightPath============ index = 0 ===========
+FlightPath: fix= MATOR
+Airport: Airport: CYMX - Canada - Montreal-Montreal Intl Mirabel - lat= 45.68 degrees - long= -74.01 degrees - field elevation= 82.30 meters
+TAMKO - latitude= 46.05 degrees - longitude= -73.91 degrees - altitudeMSL= 0.00 meters
+MATOR - latitude= 46.35 degrees - longitude= -73.34 degrees - altitudeMSL= 0.00 meters
+FlightPath: Montreal-Montreal Intl Mirabel - TAMKO - MATOR
+FlightPath: first angle= 10.14 degrees and second angle= 52.47 degrees
+FlightPath: difference= 42.33 degrees
+FlightPath: WARNING - angle difference=  42.33 greater to 30.00 degrees
+FlightPath============ index = 1 ===========
+FlightPath: fix= DICEN
+TAMKO - latitude= 46.05 degrees - longitude= -73.91 degrees - altitudeMSL= 0.00 meters
+MATOR - latitude= 46.35 degrees - longitude= -73.34 degrees - altitudeMSL= 0.00 meters
+DICEN - latitude= 46.80 degrees - longitude= -72.29 degrees - altitudeMSL= 0.00 meters
+FlightPath: TAMKO - MATOR - DICEN
+FlightPath: first angle= 52.47 degrees and second angle= 57.68 degrees
+FlightPath: difference= 5.21 degrees
+FlightPath============ index = 2 ===========
+FlightPath: fix= CHARLEVOIX
+MATOR - latitude= 46.35 degrees - longitude= -73.34 degrees - altitudeMSL= 0.00 meters
+DICEN - latitude= 46.80 degrees - longitude= -72.29 degrees - altitudeMSL= 0.00 meters
+CHARLEVOIX - latitude= 47.62 degrees - longitude= -70.32 degrees - altitudeMSL= 0.00 meters
+FlightPath: MATOR - DICEN - CHARLEVOIX
+FlightPath: first angle= 57.68 degrees and second angle= 57.61 degrees
+FlightPath: difference= -0.07 degrees
+FlightPath============ index = 3 ===========
+FlightPath: fix= RIVIEREDULOUP
+DICEN - latitude= 46.80 degrees - longitude= -72.29 degrees - altitudeMSL= 0.00 meters
+CHARLEVOIX - latitude= 47.62 degrees - longitude= -70.32 degrees - altitudeMSL= 0.00 meters
+RIVIEREDULOUP - latitude= 47.76 degrees - longitude= -69.59 degrees - altitudeMSL= 0.00 meters
+FlightPath: DICEN - CHARLEVOIX - RIVIEREDULOUP
+FlightPath: first angle= 57.61 degrees and second angle= 74.53 degrees
+FlightPath: difference= 16.93 degrees
+FlightPath============ index = 4 ===========
+FlightPath: fix= LOMSI
+CHARLEVOIX - latitude= 47.62 degrees - longitude= -70.32 degrees - altitudeMSL= 0.00 meters
+RIVIEREDULOUP - latitude= 47.76 degrees - longitude= -69.59 degrees - altitudeMSL= 0.00 meters
+LOMSI - latitude= 53.10 degrees - longitude= -56.78 degrees - altitudeMSL= 0.00 meters
+FlightPath: CHARLEVOIX - RIVIEREDULOUP - LOMSI
+FlightPath: first angle= 74.53 degrees and second angle= 51.95 degrees
+FlightPath: difference= -22.58 degrees
+FlightPath============ index = 5 ===========
+FlightPath: fix= RESNO
+RIVIEREDULOUP - latitude= 47.76 degrees - longitude= -69.59 degrees - altitudeMSL= 0.00 meters
+LOMSI - latitude= 53.10 degrees - longitude= -56.78 degrees - altitudeMSL= 0.00 meters
+RESNO - latitude= 55.00 degrees - longitude= -15.00 degrees - altitudeMSL= 0.00 meters
+FlightPath: RIVIEREDULOUP - LOMSI - RESNO
+FlightPath: first angle= 51.95 degrees and second angle= 68.60 degrees
+FlightPath: difference= 16.64 degrees
+FlightPath============ index = 6 ===========
+FlightPath: fix= NETKI
+LOMSI - latitude= 53.10 degrees - longitude= -56.78 degrees - altitudeMSL= 0.00 meters
+RESNO - latitude= 55.00 degrees - longitude= -15.00 degrees - altitudeMSL= 0.00 meters
+NETKI - latitude= 55.00 degrees - longitude= -14.00 degrees - altitudeMSL= 0.00 meters
+FlightPath: LOMSI - RESNO - NETKI
+FlightPath: first angle= 68.60 degrees and second angle= 89.59 degrees
+FlightPath: difference= 21.00 degrees
+FlightPath============ index = 7 ===========
+FlightPath: fix= NIBOG
+RESNO - latitude= 55.00 degrees - longitude= -15.00 degrees - altitudeMSL= 0.00 meters
+NETKI - latitude= 55.00 degrees - longitude= -14.00 degrees - altitudeMSL= 0.00 meters
+NIBOG - latitude= 55.00 degrees - longitude= -10.00 degrees - altitudeMSL= 0.00 meters
+FlightPath: RESNO - NETKI - NIBOG
+FlightPath: first angle= 89.59 degrees and second angle= 88.36 degrees
+FlightPath: difference= -1.23 degrees
+FlightPath============ index = 8 ===========
+FlightPath: fix= BELFAST
+NETKI - latitude= 55.00 degrees - longitude= -14.00 degrees - altitudeMSL= 0.00 meters
+NIBOG - latitude= 55.00 degrees - longitude= -10.00 degrees - altitudeMSL= 0.00 meters
+BELFAST - latitude= 54.66 degrees - longitude= -6.23 degrees - altitudeMSL= 0.00 meters
+FlightPath: NETKI - NIBOG - BELFAST
+FlightPath: first angle= 88.36 degrees and second angle= 97.32 degrees
+FlightPath: difference= 8.96 degrees
+FlightPath============ index = 9 ===========
+FlightPath: fix= DUFFY
+NIBOG - latitude= 55.00 degrees - longitude= -10.00 degrees - altitudeMSL= 0.00 meters
+BELFAST - latitude= 54.66 degrees - longitude= -6.23 degrees - altitudeMSL= 0.00 meters
+DUFFY - latitude= 54.51 degrees - longitude= -5.86 degrees - altitudeMSL= 0.00 meters
+FlightPath: NIBOG - BELFAST - DUFFY
+FlightPath: first angle= 97.32 degrees and second angle= 124.25 degrees
+FlightPath: difference= 26.92 degrees
+FlightPath: WARNING - distance between BELFAST and DUFFY less than 20 Nm = 15.58
+FlightPath============ index = 10 ===========
+FlightPath: fix= RINGA
+BELFAST - latitude= 54.66 degrees - longitude= -6.23 degrees - altitudeMSL= 0.00 meters
+DUFFY - latitude= 54.51 degrees - longitude= -5.86 degrees - altitudeMSL= 0.00 meters
+RINGA - latitude= 54.40 degrees - longitude= -5.57 degrees - altitudeMSL= 0.00 meters
+FlightPath: BELFAST - DUFFY - RINGA
+FlightPath: first angle= 124.25 degrees and second angle= 124.53 degrees
+FlightPath: difference= 0.28 degrees
+FlightPath: WARNING - distance between BELFAST and DUFFY less than 20 Nm = 15.58
+FlightPath: WARNING - distance between DUFFY and RINGA less than 20 Nm = 12.31
+FlightPath============ index = 11 ===========
+FlightPath: fix= SLYDA
+DUFFY - latitude= 54.51 degrees - longitude= -5.86 degrees - altitudeMSL= 0.00 meters
+RINGA - latitude= 54.40 degrees - longitude= -5.57 degrees - altitudeMSL= 0.00 meters
+SLYDA - latitude= 54.20 degrees - longitude= -5.09 degrees - altitudeMSL= 0.00 meters
+FlightPath: DUFFY - RINGA - SLYDA
+FlightPath: first angle= 124.53 degrees and second angle= 124.75 degrees
+FlightPath: difference= 0.22 degrees
+FlightPath: WARNING - distance between DUFFY and RINGA less than 20 Nm = 12.31
+FlightPath============ index = 12 ===========
+FlightPath: fix= ISLEOFMAN
+RINGA - latitude= 54.40 degrees - longitude= -5.57 degrees - altitudeMSL= 0.00 meters
+SLYDA - latitude= 54.20 degrees - longitude= -5.09 degrees - altitudeMSL= 0.00 meters
+ISLEOFMAN - latitude= 54.07 degrees - longitude= -4.76 degrees - altitudeMSL= 0.00 meters
+FlightPath: RINGA - SLYDA - ISLEOFMAN
+FlightPath: first angle= 124.75 degrees and second angle= 125.13 degrees
+FlightPath: difference= 0.38 degrees
+FlightPath: WARNING - distance between SLYDA and ISLEOFMAN less than 20 Nm = 13.98
+FlightPath============ index = 13 ===========
+FlightPath: fix= KELLY
+SLYDA - latitude= 54.20 degrees - longitude= -5.09 degrees - altitudeMSL= 0.00 meters
+ISLEOFMAN - latitude= 54.07 degrees - longitude= -4.76 degrees - altitudeMSL= 0.00 meters
+KELLY - latitude= 53.91 degrees - longitude= -4.36 degrees - altitudeMSL= 0.00 meters
+FlightPath: SLYDA - ISLEOFMAN - KELLY
+FlightPath: first angle= 125.13 degrees and second angle= 124.38 degrees
+FlightPath: difference= -0.76 degrees
+FlightPath: WARNING - distance between SLYDA and ISLEOFMAN less than 20 Nm = 13.98
+FlightPath: WARNING - distance between ISLEOFMAN and KELLY less than 20 Nm = 17.13
+FlightPath============ index = 14 ===========
+FlightPath: fix= PENIL
+ISLEOFMAN - latitude= 54.07 degrees - longitude= -4.76 degrees - altitudeMSL= 0.00 meters
+KELLY - latitude= 53.91 degrees - longitude= -4.36 degrees - altitudeMSL= 0.00 meters
+PENIL - latitude= 53.62 degrees - longitude= -3.66 degrees - altitudeMSL= 0.00 meters
+FlightPath: ISLEOFMAN - KELLY - PENIL
+FlightPath: first angle= 124.38 degrees and second angle= 124.67 degrees
+FlightPath: difference= 0.29 degrees
+FlightPath: WARNING - distance between ISLEOFMAN and KELLY less than 20 Nm = 17.13
+FlightPath============ index = 15 ===========
+FlightPath: fix= ASNIP
+KELLY - latitude= 53.91 degrees - longitude= -4.36 degrees - altitudeMSL= 0.00 meters
+PENIL - latitude= 53.62 degrees - longitude= -3.66 degrees - altitudeMSL= 0.00 meters
+ASNIP - latitude= 53.48 degrees - longitude= -2.91 degrees - altitudeMSL= 0.00 meters
+FlightPath: KELLY - PENIL - ASNIP
+FlightPath: first angle= 124.67 degrees and second angle= 106.67 degrees
+FlightPath: difference= -17.99 degrees
+FlightPath============ index = 16 ===========
+FlightPath: fix= MANCHESTER
+PENIL - latitude= 53.62 degrees - longitude= -3.66 degrees - altitudeMSL= 0.00 meters
+ASNIP - latitude= 53.48 degrees - longitude= -2.91 degrees - altitudeMSL= 0.00 meters
+MANCHESTER - latitude= 53.36 degrees - longitude= -2.26 degrees - altitudeMSL= 0.00 meters
+FlightPath: PENIL - ASNIP - MANCHESTER
+FlightPath: first angle= 106.67 degrees and second angle= 107.29 degrees
+FlightPath: difference= 0.62 degrees
+FlightPath============ index = 17 ===========
+FlightPath: fix= DISAL
+ASNIP - latitude= 53.48 degrees - longitude= -2.91 degrees - altitudeMSL= 0.00 meters
+MANCHESTER - latitude= 53.36 degrees - longitude= -2.26 degrees - altitudeMSL= 0.00 meters
+DISAL - latitude= 53.29 degrees - longitude= -1.63 degrees - altitudeMSL= 0.00 meters
+FlightPath: ASNIP - MANCHESTER - DISAL
+FlightPath: first angle= 107.29 degrees and second angle= 99.62 degrees
+FlightPath: difference= -7.68 degrees
+FlightPath============ index = 18 ===========
+FlightPath: fix= NAPEX
+MANCHESTER - latitude= 53.36 degrees - longitude= -2.26 degrees - altitudeMSL= 0.00 meters
+DISAL - latitude= 53.29 degrees - longitude= -1.63 degrees - altitudeMSL= 0.00 meters
+NAPEX - latitude= 53.21 degrees - longitude= -0.86 degrees - altitudeMSL= 0.00 meters
+FlightPath: MANCHESTER - DISAL - NAPEX
+FlightPath: first angle= 99.62 degrees and second angle= 100.15 degrees
+FlightPath: difference= 0.53 degrees
+FlightPath============ index = 19 ===========
+FlightPath: fix= DOLAS
+DISAL - latitude= 53.29 degrees - longitude= -1.63 degrees - altitudeMSL= 0.00 meters
+NAPEX - latitude= 53.21 degrees - longitude= -0.86 degrees - altitudeMSL= 0.00 meters
+DOLAS - latitude= 52.98 degrees - longitude= 1.00 degrees - altitudeMSL= 0.00 meters
+FlightPath: DISAL - NAPEX - DOLAS
+FlightPath: first angle= 100.15 degrees and second angle= 100.77 degrees
+FlightPath: difference= 0.62 degrees
+FlightPath============ index = 20 ===========
+FlightPath: fix= ENITO
+NAPEX - latitude= 53.21 degrees - longitude= -0.86 degrees - altitudeMSL= 0.00 meters
+DOLAS - latitude= 52.98 degrees - longitude= 1.00 degrees - altitudeMSL= 0.00 meters
+ENITO - latitude= 52.80 degrees - longitude= 2.47 degrees - altitudeMSL= 0.00 meters
+FlightPath: NAPEX - DOLAS - ENITO
+FlightPath: first angle= 100.77 degrees and second angle= 100.74 degrees
+FlightPath: difference= -0.03 degrees
+FlightPath============ index = 21 ===========
+FlightPath: fix= BUKUT
+DOLAS - latitude= 52.98 degrees - longitude= 1.00 degrees - altitudeMSL= 0.00 meters
+ENITO - latitude= 52.80 degrees - longitude= 2.47 degrees - altitudeMSL= 0.00 meters
+BUKUT - latitude= 52.76 degrees - longitude= 2.80 degrees - altitudeMSL= 0.00 meters
+FlightPath: DOLAS - ENITO - BUKUT
+FlightPath: first angle= 100.74 degrees and second angle= 101.93 degrees
+FlightPath: difference= 1.19 degrees
+FlightPath: WARNING - distance between ENITO and BUKUT less than 20 Nm = 12.38
+FlightPath============ index = 22 ===========
+FlightPath: fix= EVELI
+ENITO - latitude= 52.80 degrees - longitude= 2.47 degrees - altitudeMSL= 0.00 meters
+BUKUT - latitude= 52.76 degrees - longitude= 2.80 degrees - altitudeMSL= 0.00 meters
+EVELI - latitude= 52.64 degrees - longitude= 3.39 degrees - altitudeMSL= 0.00 meters
+FlightPath: ENITO - BUKUT - EVELI
+FlightPath: first angle= 101.93 degrees and second angle= 108.12 degrees
+FlightPath: difference= 6.19 degrees
+FlightPath: WARNING - distance between ENITO and BUKUT less than 20 Nm = 12.38
+FlightPath============ index = 23 ===========
+FlightPath: fix= BASNO
+BUKUT - latitude= 52.76 degrees - longitude= 2.80 degrees - altitudeMSL= 0.00 meters
+EVELI - latitude= 52.64 degrees - longitude= 3.39 degrees - altitudeMSL= 0.00 meters
+BASNO - latitude= 52.35 degrees - longitude= 4.58 degrees - altitudeMSL= 0.00 meters
+FlightPath: BUKUT - EVELI - BASNO
+FlightPath: first angle= 108.12 degrees and second angle= 111.39 degrees
+FlightPath: difference= 3.27 degrees
+FlightPath============ index = 24 ===========
+FlightPath: fix= PAMPUS
+EVELI - latitude= 52.64 degrees - longitude= 3.39 degrees - altitudeMSL= 0.00 meters
+BASNO - latitude= 52.35 degrees - longitude= 4.58 degrees - altitudeMSL= 0.00 meters
+PAMPUS - latitude= 52.33 degrees - longitude= 5.09 degrees - altitudeMSL= 0.00 meters
+FlightPath: EVELI - BASNO - PAMPUS
+FlightPath: first angle= 111.39 degrees and second angle= 92.58 degrees
+FlightPath: difference= -18.81 degrees
+FlightPath: WARNING - distance between BASNO and PAMPUS less than 20 Nm = 19.01
+FlightPath============ index = 25 ===========
+FlightPath: fix= IVLUT
+BASNO - latitude= 52.35 degrees - longitude= 4.58 degrees - altitudeMSL= 0.00 meters
+PAMPUS - latitude= 52.33 degrees - longitude= 5.09 degrees - altitudeMSL= 0.00 meters
+IVLUT - latitude= 52.24 degrees - longitude= 5.26 degrees - altitudeMSL= 0.00 meters
+FlightPath: WARNING - distance between PAMPUS and IVLUT less than 10 Nm = 8.15
+FlightPath: fix suppressed= IVLUT
+FlightPath: start the whole loop again from the very beginning 
+FlightPath: fix= TAMKO
+FlightPath============ index = 0 ===========
+FlightPath: fix= MATOR
+Airport: Airport: CYMX - Canada - Montreal-Montreal Intl Mirabel - lat= 45.68 degrees - long= -74.01 degrees - field elevation= 82.30 meters
+TAMKO - latitude= 46.05 degrees - longitude= -73.91 degrees - altitudeMSL= 0.00 meters
+MATOR - latitude= 46.35 degrees - longitude= -73.34 degrees - altitudeMSL= 0.00 meters
+FlightPath: Montreal-Montreal Intl Mirabel - TAMKO - MATOR
+FlightPath: first angle= 10.14 degrees and second angle= 52.47 degrees
+FlightPath: difference= 42.33 degrees
+FlightPath: WARNING - angle difference=  42.33 greater to 30.00 degrees
+FlightPath============ index = 1 ===========
+FlightPath: fix= DICEN
+TAMKO - latitude= 46.05 degrees - longitude= -73.91 degrees - altitudeMSL= 0.00 meters
+MATOR - latitude= 46.35 degrees - longitude= -73.34 degrees - altitudeMSL= 0.00 meters
+DICEN - latitude= 46.80 degrees - longitude= -72.29 degrees - altitudeMSL= 0.00 meters
+FlightPath: TAMKO - MATOR - DICEN
+FlightPath: first angle= 52.47 degrees and second angle= 57.68 degrees
+FlightPath: difference= 5.21 degrees
+FlightPath============ index = 2 ===========
+FlightPath: fix= CHARLEVOIX
+MATOR - latitude= 46.35 degrees - longitude= -73.34 degrees - altitudeMSL= 0.00 meters
+DICEN - latitude= 46.80 degrees - longitude= -72.29 degrees - altitudeMSL= 0.00 meters
+CHARLEVOIX - latitude= 47.62 degrees - longitude= -70.32 degrees - altitudeMSL= 0.00 meters
+FlightPath: MATOR - DICEN - CHARLEVOIX
+FlightPath: first angle= 57.68 degrees and second angle= 57.61 degrees
+FlightPath: difference= -0.07 degrees
+FlightPath============ index = 3 ===========
+FlightPath: fix= RIVIEREDULOUP
+DICEN - latitude= 46.80 degrees - longitude= -72.29 degrees - altitudeMSL= 0.00 meters
+CHARLEVOIX - latitude= 47.62 degrees - longitude= -70.32 degrees - altitudeMSL= 0.00 meters
+RIVIEREDULOUP - latitude= 47.76 degrees - longitude= -69.59 degrees - altitudeMSL= 0.00 meters
+FlightPath: DICEN - CHARLEVOIX - RIVIEREDULOUP
+FlightPath: first angle= 57.61 degrees and second angle= 74.53 degrees
+FlightPath: difference= 16.93 degrees
+FlightPath============ index = 4 ===========
+FlightPath: fix= LOMSI
+CHARLEVOIX - latitude= 47.62 degrees - longitude= -70.32 degrees - altitudeMSL= 0.00 meters
+RIVIEREDULOUP - latitude= 47.76 degrees - longitude= -69.59 degrees - altitudeMSL= 0.00 meters
+LOMSI - latitude= 53.10 degrees - longitude= -56.78 degrees - altitudeMSL= 0.00 meters
+FlightPath: CHARLEVOIX - RIVIEREDULOUP - LOMSI
+FlightPath: first angle= 74.53 degrees and second angle= 51.95 degrees
+FlightPath: difference= -22.58 degrees
+FlightPath============ index = 5 ===========
+FlightPath: fix= RESNO
+RIVIEREDULOUP - latitude= 47.76 degrees - longitude= -69.59 degrees - altitudeMSL= 0.00 meters
+LOMSI - latitude= 53.10 degrees - longitude= -56.78 degrees - altitudeMSL= 0.00 meters
+RESNO - latitude= 55.00 degrees - longitude= -15.00 degrees - altitudeMSL= 0.00 meters
+FlightPath: RIVIEREDULOUP - LOMSI - RESNO
+FlightPath: first angle= 51.95 degrees and second angle= 68.60 degrees
+FlightPath: difference= 16.64 degrees
+FlightPath============ index = 6 ===========
+FlightPath: fix= NETKI
+LOMSI - latitude= 53.10 degrees - longitude= -56.78 degrees - altitudeMSL= 0.00 meters
+RESNO - latitude= 55.00 degrees - longitude= -15.00 degrees - altitudeMSL= 0.00 meters
+NETKI - latitude= 55.00 degrees - longitude= -14.00 degrees - altitudeMSL= 0.00 meters
+FlightPath: LOMSI - RESNO - NETKI
+FlightPath: first angle= 68.60 degrees and second angle= 89.59 degrees
+FlightPath: difference= 21.00 degrees
+FlightPath============ index = 7 ===========
+FlightPath: fix= NIBOG
+RESNO - latitude= 55.00 degrees - longitude= -15.00 degrees - altitudeMSL= 0.00 meters
+NETKI - latitude= 55.00 degrees - longitude= -14.00 degrees - altitudeMSL= 0.00 meters
+NIBOG - latitude= 55.00 degrees - longitude= -10.00 degrees - altitudeMSL= 0.00 meters
+FlightPath: RESNO - NETKI - NIBOG
+FlightPath: first angle= 89.59 degrees and second angle= 88.36 degrees
+FlightPath: difference= -1.23 degrees
+FlightPath============ index = 8 ===========
+FlightPath: fix= BELFAST
+NETKI - latitude= 55.00 degrees - longitude= -14.00 degrees - altitudeMSL= 0.00 meters
+NIBOG - latitude= 55.00 degrees - longitude= -10.00 degrees - altitudeMSL= 0.00 meters
+BELFAST - latitude= 54.66 degrees - longitude= -6.23 degrees - altitudeMSL= 0.00 meters
+FlightPath: NETKI - NIBOG - BELFAST
+FlightPath: first angle= 88.36 degrees and second angle= 97.32 degrees
+FlightPath: difference= 8.96 degrees
+FlightPath============ index = 9 ===========
+FlightPath: fix= DUFFY
+NIBOG - latitude= 55.00 degrees - longitude= -10.00 degrees - altitudeMSL= 0.00 meters
+BELFAST - latitude= 54.66 degrees - longitude= -6.23 degrees - altitudeMSL= 0.00 meters
+DUFFY - latitude= 54.51 degrees - longitude= -5.86 degrees - altitudeMSL= 0.00 meters
+FlightPath: NIBOG - BELFAST - DUFFY
+FlightPath: first angle= 97.32 degrees and second angle= 124.25 degrees
+FlightPath: difference= 26.92 degrees
+FlightPath: WARNING - distance between BELFAST and DUFFY less than 20 Nm = 15.58
+FlightPath============ index = 10 ===========
+FlightPath: fix= RINGA
+BELFAST - latitude= 54.66 degrees - longitude= -6.23 degrees - altitudeMSL= 0.00 meters
+DUFFY - latitude= 54.51 degrees - longitude= -5.86 degrees - altitudeMSL= 0.00 meters
+RINGA - latitude= 54.40 degrees - longitude= -5.57 degrees - altitudeMSL= 0.00 meters
+FlightPath: BELFAST - DUFFY - RINGA
+FlightPath: first angle= 124.25 degrees and second angle= 124.53 degrees
+FlightPath: difference= 0.28 degrees
+FlightPath: WARNING - distance between BELFAST and DUFFY less than 20 Nm = 15.58
+FlightPath: WARNING - distance between DUFFY and RINGA less than 20 Nm = 12.31
+FlightPath============ index = 11 ===========
+FlightPath: fix= SLYDA
+DUFFY - latitude= 54.51 degrees - longitude= -5.86 degrees - altitudeMSL= 0.00 meters
+RINGA - latitude= 54.40 degrees - longitude= -5.57 degrees - altitudeMSL= 0.00 meters
+SLYDA - latitude= 54.20 degrees - longitude= -5.09 degrees - altitudeMSL= 0.00 meters
+FlightPath: DUFFY - RINGA - SLYDA
+FlightPath: first angle= 124.53 degrees and second angle= 124.75 degrees
+FlightPath: difference= 0.22 degrees
+FlightPath: WARNING - distance between DUFFY and RINGA less than 20 Nm = 12.31
+FlightPath============ index = 12 ===========
+FlightPath: fix= ISLEOFMAN
+RINGA - latitude= 54.40 degrees - longitude= -5.57 degrees - altitudeMSL= 0.00 meters
+SLYDA - latitude= 54.20 degrees - longitude= -5.09 degrees - altitudeMSL= 0.00 meters
+ISLEOFMAN - latitude= 54.07 degrees - longitude= -4.76 degrees - altitudeMSL= 0.00 meters
+FlightPath: RINGA - SLYDA - ISLEOFMAN
+FlightPath: first angle= 124.75 degrees and second angle= 125.13 degrees
+FlightPath: difference= 0.38 degrees
+FlightPath: WARNING - distance between SLYDA and ISLEOFMAN less than 20 Nm = 13.98
+FlightPath============ index = 13 ===========
+FlightPath: fix= KELLY
+SLYDA - latitude= 54.20 degrees - longitude= -5.09 degrees - altitudeMSL= 0.00 meters
+ISLEOFMAN - latitude= 54.07 degrees - longitude= -4.76 degrees - altitudeMSL= 0.00 meters
+KELLY - latitude= 53.91 degrees - longitude= -4.36 degrees - altitudeMSL= 0.00 meters
+FlightPath: SLYDA - ISLEOFMAN - KELLY
+FlightPath: first angle= 125.13 degrees and second angle= 124.38 degrees
+FlightPath: difference= -0.76 degrees
+FlightPath: WARNING - distance between SLYDA and ISLEOFMAN less than 20 Nm = 13.98
+FlightPath: WARNING - distance between ISLEOFMAN and KELLY less than 20 Nm = 17.13
+FlightPath============ index = 14 ===========
+FlightPath: fix= PENIL
+ISLEOFMAN - latitude= 54.07 degrees - longitude= -4.76 degrees - altitudeMSL= 0.00 meters
+KELLY - latitude= 53.91 degrees - longitude= -4.36 degrees - altitudeMSL= 0.00 meters
+PENIL - latitude= 53.62 degrees - longitude= -3.66 degrees - altitudeMSL= 0.00 meters
+FlightPath: ISLEOFMAN - KELLY - PENIL
+FlightPath: first angle= 124.38 degrees and second angle= 124.67 degrees
+FlightPath: difference= 0.29 degrees
+FlightPath: WARNING - distance between ISLEOFMAN and KELLY less than 20 Nm = 17.13
+FlightPath============ index = 15 ===========
+FlightPath: fix= ASNIP
+KELLY - latitude= 53.91 degrees - longitude= -4.36 degrees - altitudeMSL= 0.00 meters
+PENIL - latitude= 53.62 degrees - longitude= -3.66 degrees - altitudeMSL= 0.00 meters
+ASNIP - latitude= 53.48 degrees - longitude= -2.91 degrees - altitudeMSL= 0.00 meters
+FlightPath: KELLY - PENIL - ASNIP
+FlightPath: first angle= 124.67 degrees and second angle= 106.67 degrees
+FlightPath: difference= -17.99 degrees
+FlightPath============ index = 16 ===========
+FlightPath: fix= MANCHESTER
+PENIL - latitude= 53.62 degrees - longitude= -3.66 degrees - altitudeMSL= 0.00 meters
+ASNIP - latitude= 53.48 degrees - longitude= -2.91 degrees - altitudeMSL= 0.00 meters
+MANCHESTER - latitude= 53.36 degrees - longitude= -2.26 degrees - altitudeMSL= 0.00 meters
+FlightPath: PENIL - ASNIP - MANCHESTER
+FlightPath: first angle= 106.67 degrees and second angle= 107.29 degrees
+FlightPath: difference= 0.62 degrees
+FlightPath============ index = 17 ===========
+FlightPath: fix= DISAL
+ASNIP - latitude= 53.48 degrees - longitude= -2.91 degrees - altitudeMSL= 0.00 meters
+MANCHESTER - latitude= 53.36 degrees - longitude= -2.26 degrees - altitudeMSL= 0.00 meters
+DISAL - latitude= 53.29 degrees - longitude= -1.63 degrees - altitudeMSL= 0.00 meters
+FlightPath: ASNIP - MANCHESTER - DISAL
+FlightPath: first angle= 107.29 degrees and second angle= 99.62 degrees
+FlightPath: difference= -7.68 degrees
+FlightPath============ index = 18 ===========
+FlightPath: fix= NAPEX
+MANCHESTER - latitude= 53.36 degrees - longitude= -2.26 degrees - altitudeMSL= 0.00 meters
+DISAL - latitude= 53.29 degrees - longitude= -1.63 degrees - altitudeMSL= 0.00 meters
+NAPEX - latitude= 53.21 degrees - longitude= -0.86 degrees - altitudeMSL= 0.00 meters
+FlightPath: MANCHESTER - DISAL - NAPEX
+FlightPath: first angle= 99.62 degrees and second angle= 100.15 degrees
+FlightPath: difference= 0.53 degrees
+FlightPath============ index = 19 ===========
+FlightPath: fix= DOLAS
+DISAL - latitude= 53.29 degrees - longitude= -1.63 degrees - altitudeMSL= 0.00 meters
+NAPEX - latitude= 53.21 degrees - longitude= -0.86 degrees - altitudeMSL= 0.00 meters
+DOLAS - latitude= 52.98 degrees - longitude= 1.00 degrees - altitudeMSL= 0.00 meters
+FlightPath: DISAL - NAPEX - DOLAS
+FlightPath: first angle= 100.15 degrees and second angle= 100.77 degrees
+FlightPath: difference= 0.62 degrees
+FlightPath============ index = 20 ===========
+FlightPath: fix= ENITO
+NAPEX - latitude= 53.21 degrees - longitude= -0.86 degrees - altitudeMSL= 0.00 meters
+DOLAS - latitude= 52.98 degrees - longitude= 1.00 degrees - altitudeMSL= 0.00 meters
+ENITO - latitude= 52.80 degrees - longitude= 2.47 degrees - altitudeMSL= 0.00 meters
+FlightPath: NAPEX - DOLAS - ENITO
+FlightPath: first angle= 100.77 degrees and second angle= 100.74 degrees
+FlightPath: difference= -0.03 degrees
+FlightPath============ index = 21 ===========
+FlightPath: fix= BUKUT
+DOLAS - latitude= 52.98 degrees - longitude= 1.00 degrees - altitudeMSL= 0.00 meters
+ENITO - latitude= 52.80 degrees - longitude= 2.47 degrees - altitudeMSL= 0.00 meters
+BUKUT - latitude= 52.76 degrees - longitude= 2.80 degrees - altitudeMSL= 0.00 meters
+FlightPath: DOLAS - ENITO - BUKUT
+FlightPath: first angle= 100.74 degrees and second angle= 101.93 degrees
+FlightPath: difference= 1.19 degrees
+FlightPath: WARNING - distance between ENITO and BUKUT less than 20 Nm = 12.38
+FlightPath============ index = 22 ===========
+FlightPath: fix= EVELI
+ENITO - latitude= 52.80 degrees - longitude= 2.47 degrees - altitudeMSL= 0.00 meters
+BUKUT - latitude= 52.76 degrees - longitude= 2.80 degrees - altitudeMSL= 0.00 meters
+EVELI - latitude= 52.64 degrees - longitude= 3.39 degrees - altitudeMSL= 0.00 meters
+FlightPath: ENITO - BUKUT - EVELI
+FlightPath: first angle= 101.93 degrees and second angle= 108.12 degrees
+FlightPath: difference= 6.19 degrees
+FlightPath: WARNING - distance between ENITO and BUKUT less than 20 Nm = 12.38
+FlightPath============ index = 23 ===========
+FlightPath: fix= BASNO
+BUKUT - latitude= 52.76 degrees - longitude= 2.80 degrees - altitudeMSL= 0.00 meters
+EVELI - latitude= 52.64 degrees - longitude= 3.39 degrees - altitudeMSL= 0.00 meters
+BASNO - latitude= 52.35 degrees - longitude= 4.58 degrees - altitudeMSL= 0.00 meters
+FlightPath: BUKUT - EVELI - BASNO
+FlightPath: first angle= 108.12 degrees and second angle= 111.39 degrees
+FlightPath: difference= 3.27 degrees
+FlightPath============ index = 24 ===========
+FlightPath: fix= PAMPUS
+EVELI - latitude= 52.64 degrees - longitude= 3.39 degrees - altitudeMSL= 0.00 meters
+BASNO - latitude= 52.35 degrees - longitude= 4.58 degrees - altitudeMSL= 0.00 meters
+PAMPUS - latitude= 52.33 degrees - longitude= 5.09 degrees - altitudeMSL= 0.00 meters
+FlightPath: EVELI - BASNO - PAMPUS
+FlightPath: first angle= 111.39 degrees and second angle= 92.58 degrees
+FlightPath: difference= -18.81 degrees
+FlightPath: WARNING - distance between BASNO and PAMPUS less than 20 Nm = 19.01
+FlightPath============ index = 25 ===========
+FlightPath: fix= LUNIX
+BASNO - latitude= 52.35 degrees - longitude= 4.58 degrees - altitudeMSL= 0.00 meters
+PAMPUS - latitude= 52.33 degrees - longitude= 5.09 degrees - altitudeMSL= 0.00 meters
+LUNIX - latitude= 52.11 degrees - longitude= 5.57 degrees - altitudeMSL= 0.00 meters
+FlightPath: BASNO - PAMPUS - LUNIX
+FlightPath: first angle= 92.58 degrees and second angle= 127.62 degrees
+FlightPath: difference= 35.03 degrees
+FlightPath: WARNING - angle difference=  35.03 greater to 30.00 degrees
+FlightPath============ index = 26 ===========
+FlightPath: fix= RENDI
+PAMPUS - latitude= 52.33 degrees - longitude= 5.09 degrees - altitudeMSL= 0.00 meters
+LUNIX - latitude= 52.11 degrees - longitude= 5.57 degrees - altitudeMSL= 0.00 meters
+RENDI - latitude= 52.06 degrees - longitude= 5.68 degrees - altitudeMSL= 0.00 meters
+FlightPath: WARNING - distance between LUNIX and RENDI less than 10 Nm = 4.99
+FlightPath: fix suppressed= RENDI
+FlightPath: start the whole loop again from the very beginning 
+FlightPath: fix= TAMKO
+FlightPath============ index = 0 ===========
+FlightPath: fix= MATOR
+Airport: Airport: CYMX - Canada - Montreal-Montreal Intl Mirabel - lat= 45.68 degrees - long= -74.01 degrees - field elevation= 82.30 meters
+TAMKO - latitude= 46.05 degrees - longitude= -73.91 degrees - altitudeMSL= 0.00 meters
+MATOR - latitude= 46.35 degrees - longitude= -73.34 degrees - altitudeMSL= 0.00 meters
+FlightPath: Montreal-Montreal Intl Mirabel - TAMKO - MATOR
+FlightPath: first angle= 10.14 degrees and second angle= 52.47 degrees
+FlightPath: difference= 42.33 degrees
+FlightPath: WARNING - angle difference=  42.33 greater to 30.00 degrees
+FlightPath============ index = 1 ===========
+FlightPath: fix= DICEN
+TAMKO - latitude= 46.05 degrees - longitude= -73.91 degrees - altitudeMSL= 0.00 meters
+MATOR - latitude= 46.35 degrees - longitude= -73.34 degrees - altitudeMSL= 0.00 meters
+DICEN - latitude= 46.80 degrees - longitude= -72.29 degrees - altitudeMSL= 0.00 meters
+FlightPath: TAMKO - MATOR - DICEN
+FlightPath: first angle= 52.47 degrees and second angle= 57.68 degrees
+FlightPath: difference= 5.21 degrees
+FlightPath============ index = 2 ===========
+FlightPath: fix= CHARLEVOIX
+MATOR - latitude= 46.35 degrees - longitude= -73.34 degrees - altitudeMSL= 0.00 meters
+DICEN - latitude= 46.80 degrees - longitude= -72.29 degrees - altitudeMSL= 0.00 meters
+CHARLEVOIX - latitude= 47.62 degrees - longitude= -70.32 degrees - altitudeMSL= 0.00 meters
+FlightPath: MATOR - DICEN - CHARLEVOIX
+FlightPath: first angle= 57.68 degrees and second angle= 57.61 degrees
+FlightPath: difference= -0.07 degrees
+FlightPath============ index = 3 ===========
+FlightPath: fix= RIVIEREDULOUP
+DICEN - latitude= 46.80 degrees - longitude= -72.29 degrees - altitudeMSL= 0.00 meters
+CHARLEVOIX - latitude= 47.62 degrees - longitude= -70.32 degrees - altitudeMSL= 0.00 meters
+RIVIEREDULOUP - latitude= 47.76 degrees - longitude= -69.59 degrees - altitudeMSL= 0.00 meters
+FlightPath: DICEN - CHARLEVOIX - RIVIEREDULOUP
+FlightPath: first angle= 57.61 degrees and second angle= 74.53 degrees
+FlightPath: difference= 16.93 degrees
+FlightPath============ index = 4 ===========
+FlightPath: fix= LOMSI
+CHARLEVOIX - latitude= 47.62 degrees - longitude= -70.32 degrees - altitudeMSL= 0.00 meters
+RIVIEREDULOUP - latitude= 47.76 degrees - longitude= -69.59 degrees - altitudeMSL= 0.00 meters
+LOMSI - latitude= 53.10 degrees - longitude= -56.78 degrees - altitudeMSL= 0.00 meters
+FlightPath: CHARLEVOIX - RIVIEREDULOUP - LOMSI
+FlightPath: first angle= 74.53 degrees and second angle= 51.95 degrees
+FlightPath: difference= -22.58 degrees
+FlightPath============ index = 5 ===========
+FlightPath: fix= RESNO
+RIVIEREDULOUP - latitude= 47.76 degrees - longitude= -69.59 degrees - altitudeMSL= 0.00 meters
+LOMSI - latitude= 53.10 degrees - longitude= -56.78 degrees - altitudeMSL= 0.00 meters
+RESNO - latitude= 55.00 degrees - longitude= -15.00 degrees - altitudeMSL= 0.00 meters
+FlightPath: RIVIEREDULOUP - LOMSI - RESNO
+FlightPath: first angle= 51.95 degrees and second angle= 68.60 degrees
+FlightPath: difference= 16.64 degrees
+FlightPath============ index = 6 ===========
+FlightPath: fix= NETKI
+LOMSI - latitude= 53.10 degrees - longitude= -56.78 degrees - altitudeMSL= 0.00 meters
+RESNO - latitude= 55.00 degrees - longitude= -15.00 degrees - altitudeMSL= 0.00 meters
+NETKI - latitude= 55.00 degrees - longitude= -14.00 degrees - altitudeMSL= 0.00 meters
+FlightPath: LOMSI - RESNO - NETKI
+FlightPath: first angle= 68.60 degrees and second angle= 89.59 degrees
+FlightPath: difference= 21.00 degrees
+FlightPath============ index = 7 ===========
+FlightPath: fix= NIBOG
+RESNO - latitude= 55.00 degrees - longitude= -15.00 degrees - altitudeMSL= 0.00 meters
+NETKI - latitude= 55.00 degrees - longitude= -14.00 degrees - altitudeMSL= 0.00 meters
+NIBOG - latitude= 55.00 degrees - longitude= -10.00 degrees - altitudeMSL= 0.00 meters
+FlightPath: RESNO - NETKI - NIBOG
+FlightPath: first angle= 89.59 degrees and second angle= 88.36 degrees
+FlightPath: difference= -1.23 degrees
+FlightPath============ index = 8 ===========
+FlightPath: fix= BELFAST
+NETKI - latitude= 55.00 degrees - longitude= -14.00 degrees - altitudeMSL= 0.00 meters
+NIBOG - latitude= 55.00 degrees - longitude= -10.00 degrees - altitudeMSL= 0.00 meters
+BELFAST - latitude= 54.66 degrees - longitude= -6.23 degrees - altitudeMSL= 0.00 meters
+FlightPath: NETKI - NIBOG - BELFAST
+FlightPath: first angle= 88.36 degrees and second angle= 97.32 degrees
+FlightPath: difference= 8.96 degrees
+FlightPath============ index = 9 ===========
+FlightPath: fix= DUFFY
+NIBOG - latitude= 55.00 degrees - longitude= -10.00 degrees - altitudeMSL= 0.00 meters
+BELFAST - latitude= 54.66 degrees - longitude= -6.23 degrees - altitudeMSL= 0.00 meters
+DUFFY - latitude= 54.51 degrees - longitude= -5.86 degrees - altitudeMSL= 0.00 meters
+FlightPath: NIBOG - BELFAST - DUFFY
+FlightPath: first angle= 97.32 degrees and second angle= 124.25 degrees
+FlightPath: difference= 26.92 degrees
+FlightPath: WARNING - distance between BELFAST and DUFFY less than 20 Nm = 15.58
+FlightPath============ index = 10 ===========
+FlightPath: fix= RINGA
+BELFAST - latitude= 54.66 degrees - longitude= -6.23 degrees - altitudeMSL= 0.00 meters
+DUFFY - latitude= 54.51 degrees - longitude= -5.86 degrees - altitudeMSL= 0.00 meters
+RINGA - latitude= 54.40 degrees - longitude= -5.57 degrees - altitudeMSL= 0.00 meters
+FlightPath: BELFAST - DUFFY - RINGA
+FlightPath: first angle= 124.25 degrees and second angle= 124.53 degrees
+FlightPath: difference= 0.28 degrees
+FlightPath: WARNING - distance between BELFAST and DUFFY less than 20 Nm = 15.58
+FlightPath: WARNING - distance between DUFFY and RINGA less than 20 Nm = 12.31
+FlightPath============ index = 11 ===========
+FlightPath: fix= SLYDA
+DUFFY - latitude= 54.51 degrees - longitude= -5.86 degrees - altitudeMSL= 0.00 meters
+RINGA - latitude= 54.40 degrees - longitude= -5.57 degrees - altitudeMSL= 0.00 meters
+SLYDA - latitude= 54.20 degrees - longitude= -5.09 degrees - altitudeMSL= 0.00 meters
+FlightPath: DUFFY - RINGA - SLYDA
+FlightPath: first angle= 124.53 degrees and second angle= 124.75 degrees
+FlightPath: difference= 0.22 degrees
+FlightPath: WARNING - distance between DUFFY and RINGA less than 20 Nm = 12.31
+FlightPath============ index = 12 ===========
+FlightPath: fix= ISLEOFMAN
+RINGA - latitude= 54.40 degrees - longitude= -5.57 degrees - altitudeMSL= 0.00 meters
+SLYDA - latitude= 54.20 degrees - longitude= -5.09 degrees - altitudeMSL= 0.00 meters
+ISLEOFMAN - latitude= 54.07 degrees - longitude= -4.76 degrees - altitudeMSL= 0.00 meters
+FlightPath: RINGA - SLYDA - ISLEOFMAN
+FlightPath: first angle= 124.75 degrees and second angle= 125.13 degrees
+FlightPath: difference= 0.38 degrees
+FlightPath: WARNING - distance between SLYDA and ISLEOFMAN less than 20 Nm = 13.98
+FlightPath============ index = 13 ===========
+FlightPath: fix= KELLY
+SLYDA - latitude= 54.20 degrees - longitude= -5.09 degrees - altitudeMSL= 0.00 meters
+ISLEOFMAN - latitude= 54.07 degrees - longitude= -4.76 degrees - altitudeMSL= 0.00 meters
+KELLY - latitude= 53.91 degrees - longitude= -4.36 degrees - altitudeMSL= 0.00 meters
+FlightPath: SLYDA - ISLEOFMAN - KELLY
+FlightPath: first angle= 125.13 degrees and second angle= 124.38 degrees
+FlightPath: difference= -0.76 degrees
+FlightPath: WARNING - distance between SLYDA and ISLEOFMAN less than 20 Nm = 13.98
+FlightPath: WARNING - distance between ISLEOFMAN and KELLY less than 20 Nm = 17.13
+FlightPath============ index = 14 ===========
+FlightPath: fix= PENIL
+ISLEOFMAN - latitude= 54.07 degrees - longitude= -4.76 degrees - altitudeMSL= 0.00 meters
+KELLY - latitude= 53.91 degrees - longitude= -4.36 degrees - altitudeMSL= 0.00 meters
+PENIL - latitude= 53.62 degrees - longitude= -3.66 degrees - altitudeMSL= 0.00 meters
+FlightPath: ISLEOFMAN - KELLY - PENIL
+FlightPath: first angle= 124.38 degrees and second angle= 124.67 degrees
+FlightPath: difference= 0.29 degrees
+FlightPath: WARNING - distance between ISLEOFMAN and KELLY less than 20 Nm = 17.13
+FlightPath============ index = 15 ===========
+FlightPath: fix= ASNIP
+KELLY - latitude= 53.91 degrees - longitude= -4.36 degrees - altitudeMSL= 0.00 meters
+PENIL - latitude= 53.62 degrees - longitude= -3.66 degrees - altitudeMSL= 0.00 meters
+ASNIP - latitude= 53.48 degrees - longitude= -2.91 degrees - altitudeMSL= 0.00 meters
+FlightPath: KELLY - PENIL - ASNIP
+FlightPath: first angle= 124.67 degrees and second angle= 106.67 degrees
+FlightPath: difference= -17.99 degrees
+FlightPath============ index = 16 ===========
+FlightPath: fix= MANCHESTER
+PENIL - latitude= 53.62 degrees - longitude= -3.66 degrees - altitudeMSL= 0.00 meters
+ASNIP - latitude= 53.48 degrees - longitude= -2.91 degrees - altitudeMSL= 0.00 meters
+MANCHESTER - latitude= 53.36 degrees - longitude= -2.26 degrees - altitudeMSL= 0.00 meters
+FlightPath: PENIL - ASNIP - MANCHESTER
+FlightPath: first angle= 106.67 degrees and second angle= 107.29 degrees
+FlightPath: difference= 0.62 degrees
+FlightPath============ index = 17 ===========
+FlightPath: fix= DISAL
+ASNIP - latitude= 53.48 degrees - longitude= -2.91 degrees - altitudeMSL= 0.00 meters
+MANCHESTER - latitude= 53.36 degrees - longitude= -2.26 degrees - altitudeMSL= 0.00 meters
+DISAL - latitude= 53.29 degrees - longitude= -1.63 degrees - altitudeMSL= 0.00 meters
+FlightPath: ASNIP - MANCHESTER - DISAL
+FlightPath: first angle= 107.29 degrees and second angle= 99.62 degrees
+FlightPath: difference= -7.68 degrees
+FlightPath============ index = 18 ===========
+FlightPath: fix= NAPEX
+MANCHESTER - latitude= 53.36 degrees - longitude= -2.26 degrees - altitudeMSL= 0.00 meters
+DISAL - latitude= 53.29 degrees - longitude= -1.63 degrees - altitudeMSL= 0.00 meters
+NAPEX - latitude= 53.21 degrees - longitude= -0.86 degrees - altitudeMSL= 0.00 meters
+FlightPath: MANCHESTER - DISAL - NAPEX
+FlightPath: first angle= 99.62 degrees and second angle= 100.15 degrees
+FlightPath: difference= 0.53 degrees
+FlightPath============ index = 19 ===========
+FlightPath: fix= DOLAS
+DISAL - latitude= 53.29 degrees - longitude= -1.63 degrees - altitudeMSL= 0.00 meters
+NAPEX - latitude= 53.21 degrees - longitude= -0.86 degrees - altitudeMSL= 0.00 meters
+DOLAS - latitude= 52.98 degrees - longitude= 1.00 degrees - altitudeMSL= 0.00 meters
+FlightPath: DISAL - NAPEX - DOLAS
+FlightPath: first angle= 100.15 degrees and second angle= 100.77 degrees
+FlightPath: difference= 0.62 degrees
+FlightPath============ index = 20 ===========
+FlightPath: fix= ENITO
+NAPEX - latitude= 53.21 degrees - longitude= -0.86 degrees - altitudeMSL= 0.00 meters
+DOLAS - latitude= 52.98 degrees - longitude= 1.00 degrees - altitudeMSL= 0.00 meters
+ENITO - latitude= 52.80 degrees - longitude= 2.47 degrees - altitudeMSL= 0.00 meters
+FlightPath: NAPEX - DOLAS - ENITO
+FlightPath: first angle= 100.77 degrees and second angle= 100.74 degrees
+FlightPath: difference= -0.03 degrees
+FlightPath============ index = 21 ===========
+FlightPath: fix= BUKUT
+DOLAS - latitude= 52.98 degrees - longitude= 1.00 degrees - altitudeMSL= 0.00 meters
+ENITO - latitude= 52.80 degrees - longitude= 2.47 degrees - altitudeMSL= 0.00 meters
+BUKUT - latitude= 52.76 degrees - longitude= 2.80 degrees - altitudeMSL= 0.00 meters
+FlightPath: DOLAS - ENITO - BUKUT
+FlightPath: first angle= 100.74 degrees and second angle= 101.93 degrees
+FlightPath: difference= 1.19 degrees
+FlightPath: WARNING - distance between ENITO and BUKUT less than 20 Nm = 12.38
+FlightPath============ index = 22 ===========
+FlightPath: fix= EVELI
+ENITO - latitude= 52.80 degrees - longitude= 2.47 degrees - altitudeMSL= 0.00 meters
+BUKUT - latitude= 52.76 degrees - longitude= 2.80 degrees - altitudeMSL= 0.00 meters
+EVELI - latitude= 52.64 degrees - longitude= 3.39 degrees - altitudeMSL= 0.00 meters
+FlightPath: ENITO - BUKUT - EVELI
+FlightPath: first angle= 101.93 degrees and second angle= 108.12 degrees
+FlightPath: difference= 6.19 degrees
+FlightPath: WARNING - distance between ENITO and BUKUT less than 20 Nm = 12.38
+FlightPath============ index = 23 ===========
+FlightPath: fix= BASNO
+BUKUT - latitude= 52.76 degrees - longitude= 2.80 degrees - altitudeMSL= 0.00 meters
+EVELI - latitude= 52.64 degrees - longitude= 3.39 degrees - altitudeMSL= 0.00 meters
+BASNO - latitude= 52.35 degrees - longitude= 4.58 degrees - altitudeMSL= 0.00 meters
+FlightPath: BUKUT - EVELI - BASNO
+FlightPath: first angle= 108.12 degrees and second angle= 111.39 degrees
+FlightPath: difference= 3.27 degrees
+FlightPath============ index = 24 ===========
+FlightPath: fix= PAMPUS
+EVELI - latitude= 52.64 degrees - longitude= 3.39 degrees - altitudeMSL= 0.00 meters
+BASNO - latitude= 52.35 degrees - longitude= 4.58 degrees - altitudeMSL= 0.00 meters
+PAMPUS - latitude= 52.33 degrees - longitude= 5.09 degrees - altitudeMSL= 0.00 meters
+FlightPath: EVELI - BASNO - PAMPUS
+FlightPath: first angle= 111.39 degrees and second angle= 92.58 degrees
+FlightPath: difference= -18.81 degrees
+FlightPath: WARNING - distance between BASNO and PAMPUS less than 20 Nm = 19.01
+FlightPath============ index = 25 ===========
+FlightPath: fix= LUNIX
+BASNO - latitude= 52.35 degrees - longitude= 4.58 degrees - altitudeMSL= 0.00 meters
+PAMPUS - latitude= 52.33 degrees - longitude= 5.09 degrees - altitudeMSL= 0.00 meters
+LUNIX - latitude= 52.11 degrees - longitude= 5.57 degrees - altitudeMSL= 0.00 meters
+FlightPath: BASNO - PAMPUS - LUNIX
+FlightPath: first angle= 92.58 degrees and second angle= 127.62 degrees
+FlightPath: difference= 35.03 degrees
+FlightPath: WARNING - angle difference=  35.03 greater to 30.00 degrees
+FlightPath============ index = 26 ===========
+FlightPath: fix= EDUPO
+PAMPUS - latitude= 52.33 degrees - longitude= 5.09 degrees - altitudeMSL= 0.00 meters
+LUNIX - latitude= 52.11 degrees - longitude= 5.57 degrees - altitudeMSL= 0.00 meters
+EDUPO - latitude= 51.98 degrees - longitude= 5.84 degrees - altitudeMSL= 0.00 meters
+FlightPath: PAMPUS - LUNIX - EDUPO
+FlightPath: first angle= 127.62 degrees and second angle= 128.80 degrees
+FlightPath: difference= 1.18 degrees
+FlightPath: WARNING - distance between LUNIX and EDUPO less than 20 Nm = 12.85
+FlightPath============ index = 27 ===========
+FlightPath: fix= NAPRO
+LUNIX - latitude= 52.11 degrees - longitude= 5.57 degrees - altitudeMSL= 0.00 meters
+EDUPO - latitude= 51.98 degrees - longitude= 5.84 degrees - altitudeMSL= 0.00 meters
+NAPRO - latitude= 51.86 degrees - longitude= 6.06 degrees - altitudeMSL= 0.00 meters
+FlightPath: LUNIX - EDUPO - NAPRO
+FlightPath: first angle= 128.80 degrees and second angle= 130.95 degrees
+FlightPath: difference= 2.14 degrees
+FlightPath: WARNING - distance between LUNIX and EDUPO less than 20 Nm = 12.85
+FlightPath: WARNING - distance between EDUPO and NAPRO less than 20 Nm = 10.96
+FlightPath============ index = 28 ===========
+FlightPath: fix= DEPAD
+EDUPO - latitude= 51.98 degrees - longitude= 5.84 degrees - altitudeMSL= 0.00 meters
+NAPRO - latitude= 51.86 degrees - longitude= 6.06 degrees - altitudeMSL= 0.00 meters
+DEPAD - latitude= 51.77 degrees - longitude= 6.22 degrees - altitudeMSL= 0.00 meters
+FlightPath: WARNING - distance between NAPRO and DEPAD less than 10 Nm = 7.98
+FlightPath: fix suppressed= DEPAD
+FlightPath: start the whole loop again from the very beginning 
+FlightPath: fix= TAMKO
+FlightPath============ index = 0 ===========
+FlightPath: fix= MATOR
+Airport: Airport: CYMX - Canada - Montreal-Montreal Intl Mirabel - lat= 45.68 degrees - long= -74.01 degrees - field elevation= 82.30 meters
+TAMKO - latitude= 46.05 degrees - longitude= -73.91 degrees - altitudeMSL= 0.00 meters
+MATOR - latitude= 46.35 degrees - longitude= -73.34 degrees - altitudeMSL= 0.00 meters
+FlightPath: Montreal-Montreal Intl Mirabel - TAMKO - MATOR
+FlightPath: first angle= 10.14 degrees and second angle= 52.47 degrees
+FlightPath: difference= 42.33 degrees
+FlightPath: WARNING - angle difference=  42.33 greater to 30.00 degrees
+FlightPath============ index = 1 ===========
+FlightPath: fix= DICEN
+TAMKO - latitude= 46.05 degrees - longitude= -73.91 degrees - altitudeMSL= 0.00 meters
+MATOR - latitude= 46.35 degrees - longitude= -73.34 degrees - altitudeMSL= 0.00 meters
+DICEN - latitude= 46.80 degrees - longitude= -72.29 degrees - altitudeMSL= 0.00 meters
+FlightPath: TAMKO - MATOR - DICEN
+FlightPath: first angle= 52.47 degrees and second angle= 57.68 degrees
+FlightPath: difference= 5.21 degrees
+FlightPath============ index = 2 ===========
+FlightPath: fix= CHARLEVOIX
+MATOR - latitude= 46.35 degrees - longitude= -73.34 degrees - altitudeMSL= 0.00 meters
+DICEN - latitude= 46.80 degrees - longitude= -72.29 degrees - altitudeMSL= 0.00 meters
+CHARLEVOIX - latitude= 47.62 degrees - longitude= -70.32 degrees - altitudeMSL= 0.00 meters
+FlightPath: MATOR - DICEN - CHARLEVOIX
+FlightPath: first angle= 57.68 degrees and second angle= 57.61 degrees
+FlightPath: difference= -0.07 degrees
+FlightPath============ index = 3 ===========
+FlightPath: fix= RIVIEREDULOUP
+DICEN - latitude= 46.80 degrees - longitude= -72.29 degrees - altitudeMSL= 0.00 meters
+CHARLEVOIX - latitude= 47.62 degrees - longitude= -70.32 degrees - altitudeMSL= 0.00 meters
+RIVIEREDULOUP - latitude= 47.76 degrees - longitude= -69.59 degrees - altitudeMSL= 0.00 meters
+FlightPath: DICEN - CHARLEVOIX - RIVIEREDULOUP
+FlightPath: first angle= 57.61 degrees and second angle= 74.53 degrees
+FlightPath: difference= 16.93 degrees
+FlightPath============ index = 4 ===========
+FlightPath: fix= LOMSI
+CHARLEVOIX - latitude= 47.62 degrees - longitude= -70.32 degrees - altitudeMSL= 0.00 meters
+RIVIEREDULOUP - latitude= 47.76 degrees - longitude= -69.59 degrees - altitudeMSL= 0.00 meters
+LOMSI - latitude= 53.10 degrees - longitude= -56.78 degrees - altitudeMSL= 0.00 meters
+FlightPath: CHARLEVOIX - RIVIEREDULOUP - LOMSI
+FlightPath: first angle= 74.53 degrees and second angle= 51.95 degrees
+FlightPath: difference= -22.58 degrees
+FlightPath============ index = 5 ===========
+FlightPath: fix= RESNO
+RIVIEREDULOUP - latitude= 47.76 degrees - longitude= -69.59 degrees - altitudeMSL= 0.00 meters
+LOMSI - latitude= 53.10 degrees - longitude= -56.78 degrees - altitudeMSL= 0.00 meters
+RESNO - latitude= 55.00 degrees - longitude= -15.00 degrees - altitudeMSL= 0.00 meters
+FlightPath: RIVIEREDULOUP - LOMSI - RESNO
+FlightPath: first angle= 51.95 degrees and second angle= 68.60 degrees
+FlightPath: difference= 16.64 degrees
+FlightPath============ index = 6 ===========
+FlightPath: fix= NETKI
+LOMSI - latitude= 53.10 degrees - longitude= -56.78 degrees - altitudeMSL= 0.00 meters
+RESNO - latitude= 55.00 degrees - longitude= -15.00 degrees - altitudeMSL= 0.00 meters
+NETKI - latitude= 55.00 degrees - longitude= -14.00 degrees - altitudeMSL= 0.00 meters
+FlightPath: LOMSI - RESNO - NETKI
+FlightPath: first angle= 68.60 degrees and second angle= 89.59 degrees
+FlightPath: difference= 21.00 degrees
+FlightPath============ index = 7 ===========
+FlightPath: fix= NIBOG
+RESNO - latitude= 55.00 degrees - longitude= -15.00 degrees - altitudeMSL= 0.00 meters
+NETKI - latitude= 55.00 degrees - longitude= -14.00 degrees - altitudeMSL= 0.00 meters
+NIBOG - latitude= 55.00 degrees - longitude= -10.00 degrees - altitudeMSL= 0.00 meters
+FlightPath: RESNO - NETKI - NIBOG
+FlightPath: first angle= 89.59 degrees and second angle= 88.36 degrees
+FlightPath: difference= -1.23 degrees
+FlightPath============ index = 8 ===========
+FlightPath: fix= BELFAST
+NETKI - latitude= 55.00 degrees - longitude= -14.00 degrees - altitudeMSL= 0.00 meters
+NIBOG - latitude= 55.00 degrees - longitude= -10.00 degrees - altitudeMSL= 0.00 meters
+BELFAST - latitude= 54.66 degrees - longitude= -6.23 degrees - altitudeMSL= 0.00 meters
+FlightPath: NETKI - NIBOG - BELFAST
+FlightPath: first angle= 88.36 degrees and second angle= 97.32 degrees
+FlightPath: difference= 8.96 degrees
+FlightPath============ index = 9 ===========
+FlightPath: fix= DUFFY
+NIBOG - latitude= 55.00 degrees - longitude= -10.00 degrees - altitudeMSL= 0.00 meters
+BELFAST - latitude= 54.66 degrees - longitude= -6.23 degrees - altitudeMSL= 0.00 meters
+DUFFY - latitude= 54.51 degrees - longitude= -5.86 degrees - altitudeMSL= 0.00 meters
+FlightPath: NIBOG - BELFAST - DUFFY
+FlightPath: first angle= 97.32 degrees and second angle= 124.25 degrees
+FlightPath: difference= 26.92 degrees
+FlightPath: WARNING - distance between BELFAST and DUFFY less than 20 Nm = 15.58
+FlightPath============ index = 10 ===========
+FlightPath: fix= RINGA
+BELFAST - latitude= 54.66 degrees - longitude= -6.23 degrees - altitudeMSL= 0.00 meters
+DUFFY - latitude= 54.51 degrees - longitude= -5.86 degrees - altitudeMSL= 0.00 meters
+RINGA - latitude= 54.40 degrees - longitude= -5.57 degrees - altitudeMSL= 0.00 meters
+FlightPath: BELFAST - DUFFY - RINGA
+FlightPath: first angle= 124.25 degrees and second angle= 124.53 degrees
+FlightPath: difference= 0.28 degrees
+FlightPath: WARNING - distance between BELFAST and DUFFY less than 20 Nm = 15.58
+FlightPath: WARNING - distance between DUFFY and RINGA less than 20 Nm = 12.31
+FlightPath============ index = 11 ===========
+FlightPath: fix= SLYDA
+DUFFY - latitude= 54.51 degrees - longitude= -5.86 degrees - altitudeMSL= 0.00 meters
+RINGA - latitude= 54.40 degrees - longitude= -5.57 degrees - altitudeMSL= 0.00 meters
+SLYDA - latitude= 54.20 degrees - longitude= -5.09 degrees - altitudeMSL= 0.00 meters
+FlightPath: DUFFY - RINGA - SLYDA
+FlightPath: first angle= 124.53 degrees and second angle= 124.75 degrees
+FlightPath: difference= 0.22 degrees
+FlightPath: WARNING - distance between DUFFY and RINGA less than 20 Nm = 12.31
+FlightPath============ index = 12 ===========
+FlightPath: fix= ISLEOFMAN
+RINGA - latitude= 54.40 degrees - longitude= -5.57 degrees - altitudeMSL= 0.00 meters
+SLYDA - latitude= 54.20 degrees - longitude= -5.09 degrees - altitudeMSL= 0.00 meters
+ISLEOFMAN - latitude= 54.07 degrees - longitude= -4.76 degrees - altitudeMSL= 0.00 meters
+FlightPath: RINGA - SLYDA - ISLEOFMAN
+FlightPath: first angle= 124.75 degrees and second angle= 125.13 degrees
+FlightPath: difference= 0.38 degrees
+FlightPath: WARNING - distance between SLYDA and ISLEOFMAN less than 20 Nm = 13.98
+FlightPath============ index = 13 ===========
+FlightPath: fix= KELLY
+SLYDA - latitude= 54.20 degrees - longitude= -5.09 degrees - altitudeMSL= 0.00 meters
+ISLEOFMAN - latitude= 54.07 degrees - longitude= -4.76 degrees - altitudeMSL= 0.00 meters
+KELLY - latitude= 53.91 degrees - longitude= -4.36 degrees - altitudeMSL= 0.00 meters
+FlightPath: SLYDA - ISLEOFMAN - KELLY
+FlightPath: first angle= 125.13 degrees and second angle= 124.38 degrees
+FlightPath: difference= -0.76 degrees
+FlightPath: WARNING - distance between SLYDA and ISLEOFMAN less than 20 Nm = 13.98
+FlightPath: WARNING - distance between ISLEOFMAN and KELLY less than 20 Nm = 17.13
+FlightPath============ index = 14 ===========
+FlightPath: fix= PENIL
+ISLEOFMAN - latitude= 54.07 degrees - longitude= -4.76 degrees - altitudeMSL= 0.00 meters
+KELLY - latitude= 53.91 degrees - longitude= -4.36 degrees - altitudeMSL= 0.00 meters
+PENIL - latitude= 53.62 degrees - longitude= -3.66 degrees - altitudeMSL= 0.00 meters
+FlightPath: ISLEOFMAN - KELLY - PENIL
+FlightPath: first angle= 124.38 degrees and second angle= 124.67 degrees
+FlightPath: difference= 0.29 degrees
+FlightPath: WARNING - distance between ISLEOFMAN and KELLY less than 20 Nm = 17.13
+FlightPath============ index = 15 ===========
+FlightPath: fix= ASNIP
+KELLY - latitude= 53.91 degrees - longitude= -4.36 degrees - altitudeMSL= 0.00 meters
+PENIL - latitude= 53.62 degrees - longitude= -3.66 degrees - altitudeMSL= 0.00 meters
+ASNIP - latitude= 53.48 degrees - longitude= -2.91 degrees - altitudeMSL= 0.00 meters
+FlightPath: KELLY - PENIL - ASNIP
+FlightPath: first angle= 124.67 degrees and second angle= 106.67 degrees
+FlightPath: difference= -17.99 degrees
+FlightPath============ index = 16 ===========
+FlightPath: fix= MANCHESTER
+PENIL - latitude= 53.62 degrees - longitude= -3.66 degrees - altitudeMSL= 0.00 meters
+ASNIP - latitude= 53.48 degrees - longitude= -2.91 degrees - altitudeMSL= 0.00 meters
+MANCHESTER - latitude= 53.36 degrees - longitude= -2.26 degrees - altitudeMSL= 0.00 meters
+FlightPath: PENIL - ASNIP - MANCHESTER
+FlightPath: first angle= 106.67 degrees and second angle= 107.29 degrees
+FlightPath: difference= 0.62 degrees
+FlightPath============ index = 17 ===========
+FlightPath: fix= DISAL
+ASNIP - latitude= 53.48 degrees - longitude= -2.91 degrees - altitudeMSL= 0.00 meters
+MANCHESTER - latitude= 53.36 degrees - longitude= -2.26 degrees - altitudeMSL= 0.00 meters
+DISAL - latitude= 53.29 degrees - longitude= -1.63 degrees - altitudeMSL= 0.00 meters
+FlightPath: ASNIP - MANCHESTER - DISAL
+FlightPath: first angle= 107.29 degrees and second angle= 99.62 degrees
+FlightPath: difference= -7.68 degrees
+FlightPath============ index = 18 ===========
+FlightPath: fix= NAPEX
+MANCHESTER - latitude= 53.36 degrees - longitude= -2.26 degrees - altitudeMSL= 0.00 meters
+DISAL - latitude= 53.29 degrees - longitude= -1.63 degrees - altitudeMSL= 0.00 meters
+NAPEX - latitude= 53.21 degrees - longitude= -0.86 degrees - altitudeMSL= 0.00 meters
+FlightPath: MANCHESTER - DISAL - NAPEX
+FlightPath: first angle= 99.62 degrees and second angle= 100.15 degrees
+FlightPath: difference= 0.53 degrees
+FlightPath============ index = 19 ===========
+FlightPath: fix= DOLAS
+DISAL - latitude= 53.29 degrees - longitude= -1.63 degrees - altitudeMSL= 0.00 meters
+NAPEX - latitude= 53.21 degrees - longitude= -0.86 degrees - altitudeMSL= 0.00 meters
+DOLAS - latitude= 52.98 degrees - longitude= 1.00 degrees - altitudeMSL= 0.00 meters
+FlightPath: DISAL - NAPEX - DOLAS
+FlightPath: first angle= 100.15 degrees and second angle= 100.77 degrees
+FlightPath: difference= 0.62 degrees
+FlightPath============ index = 20 ===========
+FlightPath: fix= ENITO
+NAPEX - latitude= 53.21 degrees - longitude= -0.86 degrees - altitudeMSL= 0.00 meters
+DOLAS - latitude= 52.98 degrees - longitude= 1.00 degrees - altitudeMSL= 0.00 meters
+ENITO - latitude= 52.80 degrees - longitude= 2.47 degrees - altitudeMSL= 0.00 meters
+FlightPath: NAPEX - DOLAS - ENITO
+FlightPath: first angle= 100.77 degrees and second angle= 100.74 degrees
+FlightPath: difference= -0.03 degrees
+FlightPath============ index = 21 ===========
+FlightPath: fix= BUKUT
+DOLAS - latitude= 52.98 degrees - longitude= 1.00 degrees - altitudeMSL= 0.00 meters
+ENITO - latitude= 52.80 degrees - longitude= 2.47 degrees - altitudeMSL= 0.00 meters
+BUKUT - latitude= 52.76 degrees - longitude= 2.80 degrees - altitudeMSL= 0.00 meters
+FlightPath: DOLAS - ENITO - BUKUT
+FlightPath: first angle= 100.74 degrees and second angle= 101.93 degrees
+FlightPath: difference= 1.19 degrees
+FlightPath: WARNING - distance between ENITO and BUKUT less than 20 Nm = 12.38
+FlightPath============ index = 22 ===========
+FlightPath: fix= EVELI
+ENITO - latitude= 52.80 degrees - longitude= 2.47 degrees - altitudeMSL= 0.00 meters
+BUKUT - latitude= 52.76 degrees - longitude= 2.80 degrees - altitudeMSL= 0.00 meters
+EVELI - latitude= 52.64 degrees - longitude= 3.39 degrees - altitudeMSL= 0.00 meters
+FlightPath: ENITO - BUKUT - EVELI
+FlightPath: first angle= 101.93 degrees and second angle= 108.12 degrees
+FlightPath: difference= 6.19 degrees
+FlightPath: WARNING - distance between ENITO and BUKUT less than 20 Nm = 12.38
+FlightPath============ index = 23 ===========
+FlightPath: fix= BASNO
+BUKUT - latitude= 52.76 degrees - longitude= 2.80 degrees - altitudeMSL= 0.00 meters
+EVELI - latitude= 52.64 degrees - longitude= 3.39 degrees - altitudeMSL= 0.00 meters
+BASNO - latitude= 52.35 degrees - longitude= 4.58 degrees - altitudeMSL= 0.00 meters
+FlightPath: BUKUT - EVELI - BASNO
+FlightPath: first angle= 108.12 degrees and second angle= 111.39 degrees
+FlightPath: difference= 3.27 degrees
+FlightPath============ index = 24 ===========
+FlightPath: fix= PAMPUS
+EVELI - latitude= 52.64 degrees - longitude= 3.39 degrees - altitudeMSL= 0.00 meters
+BASNO - latitude= 52.35 degrees - longitude= 4.58 degrees - altitudeMSL= 0.00 meters
+PAMPUS - latitude= 52.33 degrees - longitude= 5.09 degrees - altitudeMSL= 0.00 meters
+FlightPath: EVELI - BASNO - PAMPUS
+FlightPath: first angle= 111.39 degrees and second angle= 92.58 degrees
+FlightPath: difference= -18.81 degrees
+FlightPath: WARNING - distance between BASNO and PAMPUS less than 20 Nm = 19.01
+FlightPath============ index = 25 ===========
+FlightPath: fix= LUNIX
+BASNO - latitude= 52.35 degrees - longitude= 4.58 degrees - altitudeMSL= 0.00 meters
+PAMPUS - latitude= 52.33 degrees - longitude= 5.09 degrees - altitudeMSL= 0.00 meters
+LUNIX - latitude= 52.11 degrees - longitude= 5.57 degrees - altitudeMSL= 0.00 meters
+FlightPath: BASNO - PAMPUS - LUNIX
+FlightPath: first angle= 92.58 degrees and second angle= 127.62 degrees
+FlightPath: difference= 35.03 degrees
+FlightPath: WARNING - angle difference=  35.03 greater to 30.00 degrees
+FlightPath============ index = 26 ===========
+FlightPath: fix= EDUPO
+PAMPUS - latitude= 52.33 degrees - longitude= 5.09 degrees - altitudeMSL= 0.00 meters
+LUNIX - latitude= 52.11 degrees - longitude= 5.57 degrees - altitudeMSL= 0.00 meters
+EDUPO - latitude= 51.98 degrees - longitude= 5.84 degrees - altitudeMSL= 0.00 meters
+FlightPath: PAMPUS - LUNIX - EDUPO
+FlightPath: first angle= 127.62 degrees and second angle= 128.80 degrees
+FlightPath: difference= 1.18 degrees
+FlightPath: WARNING - distance between LUNIX and EDUPO less than 20 Nm = 12.85
+FlightPath============ index = 27 ===========
+FlightPath: fix= NAPRO
+LUNIX - latitude= 52.11 degrees - longitude= 5.57 degrees - altitudeMSL= 0.00 meters
+EDUPO - latitude= 51.98 degrees - longitude= 5.84 degrees - altitudeMSL= 0.00 meters
+NAPRO - latitude= 51.86 degrees - longitude= 6.06 degrees - altitudeMSL= 0.00 meters
+FlightPath: LUNIX - EDUPO - NAPRO
+FlightPath: first angle= 128.80 degrees and second angle= 130.95 degrees
+FlightPath: difference= 2.14 degrees
+FlightPath: WARNING - distance between LUNIX and EDUPO less than 20 Nm = 12.85
+FlightPath: WARNING - distance between EDUPO and NAPRO less than 20 Nm = 10.96
+FlightPath============ index = 28 ===========
+FlightPath: fix= AMOSU
+EDUPO - latitude= 51.98 degrees - longitude= 5.84 degrees - altitudeMSL= 0.00 meters
+NAPRO - latitude= 51.86 degrees - longitude= 6.06 degrees - altitudeMSL= 0.00 meters
+AMOSU - latitude= 51.64 degrees - longitude= 6.46 degrees - altitudeMSL= 0.00 meters
+FlightPath: EDUPO - NAPRO - AMOSU
+FlightPath: first angle= 130.95 degrees and second angle= 131.34 degrees
+FlightPath: difference= 0.39 degrees
+FlightPath: WARNING - distance between EDUPO and NAPRO less than 20 Nm = 10.96
+FlightPath: WARNING - distance between NAPRO and AMOSU less than 20 Nm = 19.68
+FlightPath============ index = 29 ===========
+FlightPath: fix= MISGO
+NAPRO - latitude= 51.86 degrees - longitude= 6.06 degrees - altitudeMSL= 0.00 meters
+AMOSU - latitude= 51.64 degrees - longitude= 6.46 degrees - altitudeMSL= 0.00 meters
+MISGO - latitude= 51.40 degrees - longitude= 6.88 degrees - altitudeMSL= 0.00 meters
+FlightPath: NAPRO - AMOSU - MISGO
+FlightPath: first angle= 131.34 degrees and second angle= 131.64 degrees
+FlightPath: difference= 0.30 degrees
+FlightPath: WARNING - distance between NAPRO and AMOSU less than 20 Nm = 19.68
+FlightPath============ index = 30 ===========
+FlightPath: fix= COLA
+AMOSU - latitude= 51.64 degrees - longitude= 6.46 degrees - altitudeMSL= 0.00 meters
+MISGO - latitude= 51.40 degrees - longitude= 6.88 degrees - altitudeMSL= 0.00 meters
+COLA - latitude= 50.78 degrees - longitude= 7.59 degrees - altitudeMSL= 0.00 meters
+FlightPath: AMOSU - MISGO - COLA
+FlightPath: first angle= 131.64 degrees and second angle= 143.73 degrees
+FlightPath: difference= 12.09 degrees
+FlightPath============ index = 31 ===========
+FlightPath: fix= ROLIS
+MISGO - latitude= 51.40 degrees - longitude= 6.88 degrees - altitudeMSL= 0.00 meters
+COLA - latitude= 50.78 degrees - longitude= 7.59 degrees - altitudeMSL= 0.00 meters
+ROLIS - latitude= 50.44 degrees - longitude= 7.83 degrees - altitudeMSL= 0.00 meters
+FlightPath: MISGO - COLA - ROLIS
+FlightPath: first angle= 143.73 degrees and second angle= 157.10 degrees
+FlightPath: difference= 13.37 degrees
+FlightPath============ index = 32 ===========
+FlightPath: ================ get aircraft =================
+BadaAircraftDatabase: file folder= C:\Users\PASTOR Robert\workspace\FlightDynamics-3.7\Home\BadaAircraftPerformance
+BadaAircraftDatabase: file path= C:\Users\PASTOR Robert\workspace\FlightDynamics-3.7\Home\BadaAircraftPerformance\SYNONYM.NEW
+BadaAircraftDatabase: opening file=  C:\Users\PASTOR Robert\workspace\FlightDynamics-3.7\Home\BadaAircraftPerformance\SYNONYM.NEW
+BadaAircraftDatabase: number of aircrafts in db= 322
+BadaAircraftDatabase: aircraft= A310 exists= True
+BadaAircraftDatabase: aircraft= A310 - found in database
+BadaAircraftDatabase: aircraft= A310 - OPF file= C:\Users\PASTOR Robert\workspace\FlightDynamics-3.7\Home\BadaAircraftPerformance\..\Bada381DataFiles\A310__.OPF - exists= True
+FlightPath: performance file= C:\Users\PASTOR Robert\workspace\FlightDynamics-3.7\Home\BadaAircraftPerformance\..\Bada381DataFiles\A310__.OPF
+BadaAircraft: Wing Area Surface= 219.0 Square-Meters
+BadaAircraft: stall speed= {'CR': 142.0, 'IC': 116.0, 'TO': 109.0, 'AP': 105.0, 'LD': 97.0} knots
+AircraftMass: aircraft reference mass= 120000.00 kilograms
+AircraftMass: aircraft minimum mass= 81000.00 kilograms
+AircraftMass: aircraft maximum mass= 150000.00 kilograms
+AircraftMass: aircraft maximum pay load mass= 32850.00 kilograms
+BadaAircraft: ===================================================
+BadaAircraft: default configuration= departure-ground-run
+BadaAircraft: ===================================================
+BadaAircraft: transition altitude= 24452.32 feet
+BadaAircraft ICAO code= A310
+BadaAircraft aircraft full name= AIRBUS-A310
+AircraftMass ==========================================================
+AircraftMass: set Aircraft Mass= 120000.00 kilograms - Mass= 264554.71 pounds
+AircraftMass ==========================================================
+BadaAircraft: set Cruise FL= 390 - QNH= 1003.61 hecto Pascals - computed Altitude MSL=  11887.20 meters
+BadaAircraft ====================================================
+BadaAircraft: set target cruise Mach= 0.83
+BadaAircraft ====================================================
+=========== Flight Plan compute  =========== Sun Apr 14 13:35:46 2019
+time zero= 1.303037514
+flight path length= 3204.29 nautics 
+FlightPath ============== build the departure ground run =========== 
+GroundRunLeg: ground run - run-way true heading= 45.4 degrees
+GroundRunLeg: V stall Calibrated AirSpeed= 109.00 knots
+BadaAircraft: TAS= 131.35 knots - CAS= 130.87 knots > (1.2 * V CAS stall)= 130.74 knots
+BadaAircraft ====================================
+BadaAircraft: entering take-off configuration - distance flown 1098.16 meters - distance flown 0.59 nautics
+BadaAircraft: alt= 82.30 meters alt= 270.00 feet
+BadaAircraft: tas= 65.64 m/s - tas= 127.59 knots - cas= 65.40 m/s - cas= 127.12 knots - mach= 0.19
+BadaAircraft: real time = 33.00 seconds - 0.00 hours 0.00 minutes 33.00 seconds
+BadaAircraft ====================================
+ClimbRamp: run-way orientation degrees= 45.4 degrees
+BadaAircraft: CAS= 133.10 knots >= Initial Climb Stall Speed= 115.94 knots
+BadaAircraft ====================================
+BadaAircraft: entering initial-climb configuration - distance flown 1504.71 meters - distance flown 0.81 nautics
+BadaAircraft: alt= 125.12 meters alt= 410.49 feet
+BadaAircraft: tas= 68.66 m/s - tas= 133.47 knots - cas= 68.28 m/s - cas= 132.73 knots - mach= 0.20
+BadaAircraft: real time = 39.00 seconds - 0.00 hours 0.00 minutes 39.00 seconds
+BadaAircraft ====================================
+FlightPath: last leg orientation= 45.40 degrees
+FlightPath=========== add final turn, descent and ground run ===================
+GroundRunLeg: ground run - run-way true heading= 249.6 degrees
+ArrivalRunWayTouchDownConstraint: add touch down constraint= Frankfurt-Frankfurt Main-Rwy-25C-touch-down - latitude= 50.04 degrees - longitude= 8.57 degrees - altitudeMSL= 110.95 meters
+Frankfurt-Frankfurt Main-Rwy-25C-touch-down - latitude= 50.04 degrees - longitude= 8.57 degrees - altitudeMSL= 110.95 meters
+FlightPath===================== final 3 degrees descending glide slope ================
+DescentGlideSlope: airport field Elevation Above Sea Level= 110.95 meters
+DescentGlideSlope: distance from RunWay - TouchDown to RunWay - End= 1490.0000000003379 meters
+DescentGlideSlope: bearing from touch-down to runway end= 69.59 degrees
+DescentGlideSlope: glide slope Length= 9260.0  meters
+DescentGlideSlope: glide slope orientation= 249.6 degrees
+DescentGlideSlope: distance from last way point to touch-down: 5.00 nautics
+FlightPath: top of arrival glide slope= glide-slope-pt-99-9260.000000000016-meters - latitude= 50.01 degrees - longitude= 8.45 degrees - altitudeMSL= 596.24 meters
+FlightPath ================= need a turn leg to find the junction point the last way-point in the fix list to the top of the final glide slope
+TurnLeg: turn from= 249.60 degrees  to 316.60 degrees - turn step is= 3.00 degrees
+TurnLeg: tas= 107.81 knots - radius of turn= 3584.36 meters - radius of turn= 1.94 nautics
+TurnLeg: initial heading= 249.60 degrees
+FlightPath: begin of last turn= turn-pt-78-319.64-degrees - latitude= 50.02 degrees - longitude= 8.39 degrees - altitudeMSL= 596.24 meters
+TargetApproachConstraint: add target approach way point constraint= turn-pt-78-319.64-degrees - latitude= 50.02 degrees - longitude= 8.39 degrees - altitudeMSL= 596.24 meters
+FlightPath: updated flight path length= 3221.49 nautics
+FlightPath: fix list= ['climb-ramp-pt-116-9299.84-meters', 'TAMKO', 'MATOR', 'DICEN', 'CHARLEVOIX', 'RIVIEREDULOUP', 'LOMSI', 'RESNO', 'NETKI', 'NIBOG', 'BELFAST', 'DUFFY', 'RINGA', 'SLYDA', 'ISLEOFMAN', 'KELLY', 'PENIL', 'ASNIP', 'MANCHESTER', 'DISAL', 'NAPEX', 'DOLAS', 'ENITO', 'BUKUT', 'EVELI', 'BASNO', 'PAMPUS', 'LUNIX', 'EDUPO', 'NAPRO', 'AMOSU', 'MISGO', 'COLA', 'ROLIS', 'turn-pt-78-319.64-degrees']
+TAMKO - latitude= 46.05 degrees - longitude= -73.91 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 45.40 degrees  to 1.92 degrees - turn step is= -3.00 degrees
+FlightPath: distance to last fix= 3196.72296373679 nautics
+FlightPath: still to fly= 3215.8409084849213 nautics
+TurnLeg: tas= 183.27 knots - radius of turn= 3381.66 meters - radius of turn= 1.83 nautics
+TurnLeg: initial heading= 45.40 degrees
+TurnLeg: final heading= -0.50 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 359.50 degrees
+FlightPath: difference= 52.13 degrees
+FlightPath: anticipated turn start from end point= 7898.15 meters
+FlightPath: Envisage anticipated Fly By turn !!!!!!!!!!!!!!!!!!!!!!!!!
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 3195.3888382657938 nautics
+FlightPath: still to fly= 3214.3778565984885 nautics
+GreatCircleRoute: initial way-point= turn-pt-28--0.50-degrees - latitude= 45.76 degrees - longitude= -73.91 degrees - altitudeMSL= 1698.11 meters
+BadaAircraft ====================================
+BadaAircraft: entering climb configuration - distance flown 23682.47 meters - distance flown 12.79 nautics
+BadaAircraft: alt= 3043.94 meters alt= 9986.56 feet
+BadaAircraft: tas= 121.68 m/s - tas= 236.53 knots - cas= 105.22 m/s - cas= 204.52 knots - mach= 0.37
+BadaAircraft: real time = 273.00 seconds - 4.00 minutes 33.00 seconds
+BadaAircraft ====================================
+GreatCircleRoute: final way-point= Anticipated-Turn-TAMKO - latitude= 45.98 degrees - longitude= -73.91 degrees - altitudeMSL= 4712.94 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 5928662.25 meters - still to fly= 3201.22 nautics
+FlightPath: passing waypoint: Anticipated-Turn-TAMKO - alt= 4712.94 meters - alt= 15462.21 feet - distance= 20.27 nautics - real time = 377.00 seconds - 6.00 minutes 17.00 seconds
+MATOR - latitude= 46.35 degrees - longitude= -73.34 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 0.35 degrees  to 46.57 degrees - turn step is= 3.00 degrees
+FlightPath: distance to last fix= 3180.796971726334 nautics
+FlightPath: still to fly= 3201.2215146420444 nautics
+TurnLeg: tas= 278.79 knots - radius of turn= 7825.74 meters - radius of turn= 4.23 nautics
+TurnLeg: initial heading= 0.35 degrees
+TurnLeg: final heading= 49.83 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 49.83 degrees
+FlightPath: difference= 8.62 degrees
+FlightPath: anticipated turn start from end point= 116354.26 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 3177.520718955046 nautics
+FlightPath: still to fly= 3197.6094683946058 nautics
+GreatCircleRoute: initial way-point= turn-pt-46-49.83-degrees - latitude= 46.03 degrees - longitude= -73.87 degrees - altitudeMSL= 5432.11 meters
+GreatCircleRoute: final way-point= MATOR - latitude= 46.35 degrees - longitude= -73.34 degrees - altitudeMSL= 9454.89 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 5867373.44 meters - still to fly= 3168.13 nautics
+FlightPath: passing waypoint: MATOR - alt= 9454.89 meters - alt= 31019.59 feet - distance= 53.36 nautics - real time = 737.00 seconds - 12.00 minutes 17.00 seconds
+DICEN - latitude= 46.80 degrees - longitude= -72.29 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 49.45 degrees  to 57.68 degrees - turn step is= 3.00 degrees
+FlightPath: distance to last fix= 3148.0416264007945 nautics
+FlightPath: still to fly= 3168.1282069700733 nautics
+TurnLeg: tas= 373.53 knots - radius of turn= 14047.52 meters - radius of turn= 7.59 nautics
+TurnLeg: initial heading= 49.45 degrees
+TurnLeg: final heading= 58.08 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 58.08 degrees
+FlightPath: difference= -0.17 degrees
+FlightPath: anticipated turn start from end point= 9547735.67 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 3146.9019379162237 nautics
+FlightPath: still to fly= 3166.987398664199 nautics
+GreatCircleRoute: initial way-point= turn-pt-11-58.08-degrees - latitude= 46.36 degrees - longitude= -73.32 degrees - altitudeMSL= 9560.69 meters
+BadaAircraft: cruise level reached= 11880.74 meters = 38978.34 feet
+BadaAircraft ====================================
+BadaAircraft: entering cruise configuration - distance flown 175656.19 meters - distance flown 94.85 nautics
+BadaAircraft: alt= 11876.98 meters alt= 38965.98 feet
+BadaAircraft: tas= 212.76 m/s - tas= 413.57 knots - cas= 113.79 m/s - cas= 221.19 knots - mach= 0.72
+BadaAircraft: real time = 1114.00 seconds - 18.00 minutes 34.00 seconds
+BadaAircraft ====================================
+GreatCircleRoute: final way-point= DICEN - latitude= 46.80 degrees - longitude= -72.29 degrees - altitudeMSL= 11880.74 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 5772740.05 meters - still to fly= 3117.03 nautics
+FlightPath: passing waypoint: DICEN - alt= 11880.74 meters - alt= 38978.34 feet - distance= 104.46 nautics - real time = 1194.00 seconds - 19.00 minutes 54.00 seconds
+CHARLEVOIX - latitude= 47.62 degrees - longitude= -70.32 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 58.52 degrees  to 57.61 degrees - turn step is= -3.00 degrees
+FlightPath: distance to last fix= 3096.963308226636 nautics
+FlightPath: still to fly= 3117.0302645387414 nautics
+TurnLeg: tas= 444.24 knots - radius of turn= 19869.23 meters - radius of turn= 10.73 nautics
+TurnLeg: initial heading= 58.52 degrees
+TurnLeg: final heading= 57.20 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 57.20 degrees
+FlightPath: difference= 16.92 degrees
+FlightPath: anticipated turn start from end point= 134013.22 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 3096.716209010365 nautics
+FlightPath: still to fly= 3116.8016639682373 nautics
+GreatCircleRoute: initial way-point= turn-pt-2-57.20-degrees - latitude= 46.80 degrees - longitude= -72.28 degrees - altitudeMSL= 11880.74 meters
+GreatCircleRoute: final way-point= CHARLEVOIX - latitude= 47.63 degrees - longitude= -70.30 degrees - altitudeMSL= 11880.74 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 5596124.05 meters - still to fly= 3021.67 nautics
+FlightPath: passing waypoint: CHARLEVOIX - alt= 11880.74 meters - alt= 38978.34 feet - distance= 199.83 nautics - real time = 1918.00 seconds - 31.00 minutes 58.00 seconds
+RIVIEREDULOUP - latitude= 47.76 degrees - longitude= -69.59 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 59.05 degrees  to 74.53 degrees - turn step is= 3.00 degrees
+FlightPath: distance to last fix= 3002.7170378150836 nautics
+FlightPath: still to fly= 3021.66525170278 nautics
+TurnLeg: tas= 476.27 knots - radius of turn= 22838.07 meters - radius of turn= 12.33 nautics
+TurnLeg: initial heading= 59.05 degrees
+TurnLeg: final heading= 75.64 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 75.64 degrees
+FlightPath: difference= -23.54 degrees
+FlightPath: anticipated turn start from end point= 109591.07 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 2999.186606637373 nautics
+FlightPath: still to fly= 3017.2205810910355 nautics
+GreatCircleRoute: initial way-point= turn-pt-27-75.64-degrees - latitude= 47.65 degrees - longitude= -70.24 degrees - altitudeMSL= 11880.74 meters
+GreatCircleRoute: final way-point= RIVIEREDULOUP - latitude= 47.76 degrees - longitude= -69.58 degrees - altitudeMSL= 11880.74 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 5536439.63 meters - still to fly= 2989.44 nautics
+FlightPath: passing waypoint: RIVIEREDULOUP - alt= 11880.74 meters - alt= 38978.34 feet - distance= 232.05 nautics - real time = 2155.00 seconds - 35.00 minutes 55.00 seconds
+LOMSI - latitude= 53.10 degrees - longitude= -56.78 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 75.96 degrees  to 51.95 degrees - turn step is= -3.00 degrees
+FlightPath: distance to last fix= 2971.91592190649 nautics
+FlightPath: still to fly= 2989.4382446251684 nautics
+TurnLeg: tas= 476.27 knots - radius of turn= 22838.07 meters - radius of turn= 12.33 nautics
+TurnLeg: initial heading= 75.96 degrees
+TurnLeg: final heading= 51.38 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 51.38 degrees
+FlightPath: difference= 16.66 degrees
+FlightPath: anticipated turn start from end point= 155982.76 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 2966.768750225735 nautics
+FlightPath: still to fly= 2983.8993022033337 nautics
+GreatCircleRoute: initial way-point= turn-pt-40-51.38-degrees - latitude= 47.80 degrees - longitude= -69.47 degrees - altitudeMSL= 11880.74 meters
+GreatCircleRoute: final way-point= LOMSI - latitude= 53.11 degrees - longitude= -56.76 degrees - altitudeMSL= 11880.74 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 4450571.16 meters - still to fly= 2403.12 nautics
+FlightPath: passing waypoint: LOMSI - alt= 11880.74 meters - alt= 38978.34 feet - distance= 818.38 nautics - real time = 6585.00 seconds - 1.00 hours 49.00 minutes 45.00 seconds
+RESNO - latitude= 55.00 degrees - longitude= -15.00 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 61.74 degrees  to 68.60 degrees - turn step is= 3.00 degrees
+FlightPath: distance to last fix= 2387.074642660719 nautics
+FlightPath: still to fly= 2403.1161732263995 nautics
+TurnLeg: tas= 476.27 knots - radius of turn= 22838.07 meters - radius of turn= 12.33 nautics
+TurnLeg: initial heading= 61.74 degrees
+TurnLeg: final heading= 69.12 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 69.12 degrees
+FlightPath: difference= 20.96 degrees
+FlightPath: anticipated turn start from end point= 123463.45 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 2385.490153926278 nautics
+FlightPath: still to fly= 2400.704174874151 nautics
+GreatCircleRoute: initial way-point= turn-pt-12-69.12-degrees - latitude= 53.11 degrees - longitude= -56.74 degrees - altitudeMSL= 11880.74 meters
+GreatCircleRoute: final way-point= RESNO - latitude= 55.00 degrees - longitude= -15.00 degrees - altitudeMSL= 11880.74 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 1750952.90 meters - still to fly= 945.44 nautics
+FlightPath: passing waypoint: RESNO - alt= 11880.74 meters - alt= 38978.34 feet - distance= 2276.05 nautics - real time = 17597.00 seconds - 4.00 hours 53.00 minutes 17.00 seconds
+NETKI - latitude= 55.00 degrees - longitude= -14.00 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 102.92 degrees  to 89.59 degrees - turn step is= -3.00 degrees
+FlightPath: distance to last fix= 930.303423775848 nautics
+FlightPath: still to fly= 945.4389314240052 nautics
+TurnLeg: tas= 476.27 knots - radius of turn= 22838.07 meters - radius of turn= 12.33 nautics
+TurnLeg: initial heading= 102.92 degrees
+TurnLeg: final heading= 88.78 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 88.78 degrees
+FlightPath: difference= -0.73 degrees
+FlightPath: anticipated turn start from end point= 3579877.35 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 927.2860892718174 nautics
+FlightPath: still to fly= 942.4746052181353 nautics
+GreatCircleRoute: initial way-point= turn-pt-23-88.78-degrees - latitude= 55.00 degrees - longitude= -14.91 degrees - altitudeMSL= 11880.74 meters
+GreatCircleRoute: final way-point= NETKI - latitude= 55.00 degrees - longitude= -13.99 degrees - altitudeMSL= 11880.74 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 1686659.67 meters - still to fly= 910.72 nautics
+FlightPath: passing waypoint: NETKI - alt= 11880.74 meters - alt= 38978.34 feet - distance= 2310.77 nautics - real time = 17860.00 seconds - 4.00 hours 57.00 minutes 40.00 seconds
+NIBOG - latitude= 55.00 degrees - longitude= -10.00 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 89.82 degrees  to 88.36 degrees - turn step is= -3.00 degrees
+FlightPath: distance to last fix= 895.8273584672884 nautics
+FlightPath: still to fly= 910.7233635428572 nautics
+TurnLeg: tas= 476.27 knots - radius of turn= 22838.07 meters - radius of turn= 12.33 nautics
+TurnLeg: initial heading= 89.82 degrees
+TurnLeg: final heading= 87.97 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 87.97 degrees
+FlightPath: difference= 8.95 degrees
+FlightPath: anticipated turn start from end point= 291665.69 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 895.4304863008451 nautics
+FlightPath: still to fly= 910.2985408041408 nautics
+GreatCircleRoute: initial way-point= turn-pt-3-87.97-degrees - latitude= 55.00 degrees - longitude= -13.99 degrees - altitudeMSL= 11880.74 meters
+GreatCircleRoute: final way-point= NIBOG - latitude= 55.00 degrees - longitude= -10.00 degrees - altitudeMSL= 11880.74 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 1431058.60 meters - still to fly= 772.71 nautics
+FlightPath: passing waypoint: NIBOG - alt= 11880.74 meters - alt= 38978.34 feet - distance= 2448.78 nautics - real time = 18903.00 seconds - 5.00 hours 15.00 minutes 3.00 seconds
+BELFAST - latitude= 54.66 degrees - longitude= -6.23 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 91.61 degrees  to 97.32 degrees - turn step is= 3.00 degrees
+FlightPath: distance to last fix= 757.940717005488 nautics
+FlightPath: still to fly= 772.7098268779351 nautics
+TurnLeg: tas= 476.27 knots - radius of turn= 22838.07 meters - radius of turn= 12.33 nautics
+TurnLeg: initial heading= 91.61 degrees
+TurnLeg: final heading= 97.76 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 97.76 degrees
+FlightPath: difference= 26.87 degrees
+FlightPath: anticipated turn start from end point= 95614.20 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 756.6194929759787 nautics
+FlightPath: still to fly= 771.485782613166 nautics
+GreatCircleRoute: initial way-point= turn-pt-10-97.76-degrees - latitude= 55.00 degrees - longitude= -9.96 degrees - altitudeMSL= 11880.74 meters
+GreatCircleRoute: final way-point= BELFAST - latitude= 54.66 degrees - longitude= -6.22 degrees - altitudeMSL= 11880.74 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 1186228.06 meters - still to fly= 640.51 nautics
+FlightPath: passing waypoint: BELFAST - alt= 11880.74 meters - alt= 38978.34 feet - distance= 2580.98 nautics - real time = 19903.00 seconds - 5.00 hours 31.00 minutes 43.00 seconds
+DUFFY - latitude= 54.51 degrees - longitude= -5.86 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 100.40 degrees  to 124.25 degrees - turn step is= 3.00 degrees
+FlightPath: distance to last fix= 625.8506391883518 nautics
+FlightPath: still to fly= 640.5119107026435 nautics
+TurnLeg: tas= 476.27 knots - radius of turn= 13123.19 meters - radius of turn= 7.09 nautics
+TurnLeg: initial heading= 100.40 degrees
+TurnLeg: final heading= 127.15 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 127.15 degrees
+FlightPath: difference= -2.42 degrees
+FlightPath: anticipated turn start from end point= 1081294.23 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 622.6355056146047 nautics
+FlightPath: still to fly= 637.2640033872948 nautics
+GreatCircleRoute: initial way-point= turn-pt-25-127.15-degrees - latitude= 54.64 degrees - longitude= -6.14 degrees - altitudeMSL= 11880.74 meters
+GreatCircleRoute: final way-point= DUFFY - latitude= 54.51 degrees - longitude= -5.84 degrees - altitudeMSL= 11880.74 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 1155711.56 meters - still to fly= 624.03 nautics
+FlightPath: passing waypoint: DUFFY - alt= 11880.74 meters - alt= 38978.34 feet - distance= 2597.46 nautics - real time = 20028.00 seconds - 5.00 hours 33.00 minutes 48.00 seconds
+RINGA - latitude= 54.40 degrees - longitude= -5.57 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 127.17 degrees  to 124.53 degrees - turn step is= -3.00 degrees
+FlightPath: distance to last fix= 610.2717312570531 nautics
+FlightPath: still to fly= 624.03431935593 nautics
+TurnLeg: tas= 476.27 knots - radius of turn= 13123.19 meters - radius of turn= 7.09 nautics
+TurnLeg: initial heading= 127.17 degrees
+TurnLeg: final heading= 123.96 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 123.96 degrees
+FlightPath: difference= 0.23 degrees
+FlightPath: anticipated turn start from end point= 11298077.73 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 609.8749027011386 nautics
+FlightPath: still to fly= 623.0360851991144 nautics
+GreatCircleRoute: initial way-point= turn-pt-3-123.96-degrees - latitude= 54.51 degrees - longitude= -5.85 degrees - altitudeMSL= 11880.74 meters
+GreatCircleRoute: final way-point= RINGA - latitude= 54.39 degrees - longitude= -5.54 degrees - altitudeMSL= 11880.74 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 1129361.46 meters - still to fly= 609.81 nautics
+FlightPath: passing waypoint: RINGA - alt= 11880.74 meters - alt= 38978.34 feet - distance= 2611.69 nautics - real time = 20131.00 seconds - 5.00 hours 35.00 minutes 31.00 seconds
+SLYDA - latitude= 54.20 degrees - longitude= -5.09 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 124.75 degrees  to 124.75 degrees - turn step is= 3.00 degrees
+FlightPath: distance to last fix= 597.9662225412707 nautics
+FlightPath: still to fly= 609.8064011677492 nautics
+TurnLeg: tas= 476.27 knots - radius of turn= 13123.19 meters - radius of turn= 7.09 nautics
+TurnLeg: initial heading= 124.75 degrees
+TurnLeg: final heading= 125.82 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 304.65 degrees
+FlightPath: difference= 0.39 degrees
+FlightPath: anticipated turn start from end point= 6761716.80 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 597.8339487489293 nautics
+FlightPath: still to fly= 608.6176685210986 nautics
+GreatCircleRoute: initial way-point= turn-pt-1-125.82-degrees - latitude= 54.40 degrees - longitude= -5.57 degrees - altitudeMSL= 11880.74 meters
+GreatCircleRoute: final way-point= SLYDA - latitude= 54.20 degrees - longitude= -5.07 degrees - altitudeMSL= 11880.74 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 1087957.72 meters - still to fly= 587.45 nautics
+FlightPath: passing waypoint: SLYDA - alt= 11880.74 meters - alt= 38978.34 feet - distance= 2634.04 nautics - real time = 20292.00 seconds - 5.00 hours 38.00 minutes 12.00 seconds
+ISLEOFMAN - latitude= 54.07 degrees - longitude= -4.76 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 125.12 degrees  to 125.13 degrees - turn step is= 3.00 degrees
+FlightPath: distance to last fix= 577.2715664511666 nautics
+FlightPath: still to fly= 587.4501740709139 nautics
+TurnLeg: tas= 476.27 knots - radius of turn= 13123.19 meters - radius of turn= 7.09 nautics
+TurnLeg: initial heading= 125.12 degrees
+TurnLeg: final heading= 126.19 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 304.85 degrees
+FlightPath: difference= -0.75 degrees
+FlightPath: anticipated turn start from end point= 3486220.31 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 577.1392924352098 nautics
+FlightPath: still to fly= 586.9773300000638 nautics
+GreatCircleRoute: initial way-point= turn-pt-1-126.19-degrees - latitude= 54.20 degrees - longitude= -5.08 degrees - altitudeMSL= 11880.74 meters
+GreatCircleRoute: final way-point= ISLEOFMAN - latitude= 54.06 degrees - longitude= -4.75 degrees - altitudeMSL= 11880.74 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 1060130.50 meters - still to fly= 572.42 nautics
+FlightPath: passing waypoint: ISLEOFMAN - alt= 11880.74 meters - alt= 38978.34 feet - distance= 2649.07 nautics - real time = 20403.00 seconds - 5.00 hours 40.00 minutes 3.00 seconds
+KELLY - latitude= 53.91 degrees - longitude= -4.36 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 125.37 degrees  to 124.38 degrees - turn step is= -3.00 degrees
+FlightPath: distance to last fix= 563.2957866400832 nautics
+FlightPath: still to fly= 572.4246775655623 nautics
+TurnLeg: tas= 476.27 knots - radius of turn= 13123.19 meters - radius of turn= 7.09 nautics
+TurnLeg: initial heading= 125.37 degrees
+TurnLeg: final heading= 124.31 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 305.65 degrees
+FlightPath: difference= 0.29 degrees
+FlightPath: anticipated turn start from end point= 9079882.01 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 563.1634899001183 nautics
+FlightPath: still to fly= 571.8477988163642 nautics
+GreatCircleRoute: initial way-point= turn-pt-1-124.31-degrees - latitude= 54.07 degrees - longitude= -4.76 degrees - altitudeMSL= 11880.74 meters
+GreatCircleRoute: final way-point= KELLY - latitude= 53.90 degrees - longitude= -4.36 degrees - altitudeMSL= 11880.74 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 1027210.34 meters - still to fly= 554.65 nautics
+FlightPath: passing waypoint: KELLY - alt= 11880.74 meters - alt= 38978.34 feet - distance= 2666.84 nautics - real time = 20534.00 seconds - 5.00 hours 42.00 minutes 14.00 seconds
+PENIL - latitude= 53.62 degrees - longitude= -3.66 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 124.68 degrees  to 124.67 degrees - turn step is= -3.00 degrees
+FlightPath: distance to last fix= 546.1640301339287 nautics
+FlightPath: still to fly= 554.6492095755902 nautics
+TurnLeg: tas= 476.27 knots - radius of turn= 22838.07 meters - radius of turn= 12.33 nautics
+TurnLeg: initial heading= 124.68 degrees
+TurnLeg: final heading= 124.06 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 305.96 degrees
+FlightPath: difference= -18.00 degrees
+FlightPath: anticipated turn start from end point= 144216.18 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 546.0317406644173 nautics
+FlightPath: still to fly= 554.5823526799188 nautics
+GreatCircleRoute: initial way-point= turn-pt-1-124.06-degrees - latitude= 53.90 degrees - longitude= -4.36 degrees - altitudeMSL= 11880.74 meters
+GreatCircleRoute: final way-point= PENIL - latitude= 53.61 degrees - longitude= -3.66 degrees - altitudeMSL= 11880.74 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 970733.36 meters - still to fly= 524.15 nautics
+FlightPath: passing waypoint: PENIL - alt= 11880.74 meters - alt= 38978.34 feet - distance= 2697.34 nautics - real time = 20765.00 seconds - 5.00 hours 46.00 minutes 5.00 seconds
+ASNIP - latitude= 53.48 degrees - longitude= -2.91 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 125.21 degrees  to 106.67 degrees - turn step is= -3.00 degrees
+FlightPath: distance to last fix= 515.7940424906584 nautics
+FlightPath: still to fly= 524.1540794077791 nautics
+TurnLeg: tas= 476.27 knots - radius of turn= 22838.07 meters - radius of turn= 12.33 nautics
+TurnLeg: initial heading= 125.21 degrees
+TurnLeg: final heading= 104.93 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 104.93 degrees
+FlightPath: difference= 1.99 degrees
+FlightPath: anticipated turn start from end point= 1318053.78 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 511.50167513674944 nautics
+FlightPath: still to fly= 519.8622756503153 nautics
+GreatCircleRoute: initial way-point= turn-pt-33-104.93-degrees - latitude= 53.59 degrees - longitude= -3.55 degrees - altitudeMSL= 11880.74 meters
+GreatCircleRoute: final way-point= ASNIP - latitude= 53.47 degrees - longitude= -2.88 degrees - altitudeMSL= 11880.74 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 916232.32 meters - still to fly= 494.73 nautics
+FlightPath: passing waypoint: ASNIP - alt= 11880.74 meters - alt= 38978.34 feet - distance= 2726.77 nautics - real time = 20988.00 seconds - 5.00 hours 49.00 minutes 48.00 seconds
+MANCHESTER - latitude= 53.36 degrees - longitude= -2.26 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 105.83 degrees  to 107.29 degrees - turn step is= 3.00 degrees
+FlightPath: distance to last fix= 487.54967817740453 nautics
+FlightPath: still to fly= 494.7258759907214 nautics
+TurnLeg: tas= 476.27 knots - radius of turn= 13123.19 meters - radius of turn= 7.09 nautics
+TurnLeg: initial heading= 105.83 degrees
+TurnLeg: final heading= 107.96 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 107.96 degrees
+FlightPath: difference= -7.68 degrees
+FlightPath: anticipated turn start from end point= 340252.36 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 487.2850966936179 nautics
+FlightPath: still to fly= 493.54144748526875 nautics
+GreatCircleRoute: initial way-point= turn-pt-2-107.96-degrees - latitude= 53.48 degrees - longitude= -2.90 degrees - altitudeMSL= 11880.74 meters
+GreatCircleRoute: final way-point= MANCHESTER - latitude= 53.35 degrees - longitude= -2.23 degrees - altitudeMSL= 11880.74 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 867486.15 meters - still to fly= 468.41 nautics
+FlightPath: passing waypoint: MANCHESTER - alt= 11880.74 meters - alt= 38978.34 feet - distance= 2753.09 nautics - real time = 21180.00 seconds - 5.00 hours 53.00 minutes 0.00 seconds
+DISAL - latitude= 53.29 degrees - longitude= -1.63 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 107.81 degrees  to 99.62 degrees - turn step is= -3.00 degrees
+FlightPath: distance to last fix= 463.3181707577128 nautics
+FlightPath: still to fly= 468.4050478256749 nautics
+TurnLeg: tas= 476.27 knots - radius of turn= 13123.19 meters - radius of turn= 7.09 nautics
+TurnLeg: initial heading= 107.81 degrees
+TurnLeg: final heading= 99.25 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 99.25 degrees
+FlightPath: difference= 0.67 degrees
+FlightPath: anticipated turn start from end point= 3915263.97 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 462.2626808000805 nautics
+FlightPath: still to fly= 466.44176690896916 nautics
+GreatCircleRoute: initial way-point= turn-pt-8-99.25-degrees - latitude= 53.35 degrees - longitude= -2.23 degrees - altitudeMSL= 11880.74 meters
+GreatCircleRoute: final way-point= DISAL - latitude= 53.29 degrees - longitude= -1.62 degrees - altitudeMSL= 11880.74 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 822197.82 meters - still to fly= 443.95 nautics
+FlightPath: passing waypoint: DISAL - alt= 11880.74 meters - alt= 38978.34 feet - distance= 2777.54 nautics - real time = 21358.00 seconds - 5.00 hours 55.00 minutes 58.00 seconds
+NAPEX - latitude= 53.21 degrees - longitude= -0.86 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 99.95 degrees  to 100.15 degrees - turn step is= 3.00 degrees
+FlightPath: distance to last fix= 440.3073161960619 nautics
+FlightPath: still to fly= 443.9513040556468 nautics
+TurnLeg: tas= 476.27 knots - radius of turn= 22838.07 meters - radius of turn= 12.33 nautics
+TurnLeg: initial heading= 99.95 degrees
+TurnLeg: final heading= 100.56 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 279.78 degrees
+FlightPath: difference= 0.62 degrees
+FlightPath: anticipated turn start from end point= 4224224.76 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 440.17502279777375 nautics
+FlightPath: still to fly= 443.5484930953875 nautics
+GreatCircleRoute: initial way-point= turn-pt-1-100.56-degrees - latitude= 53.29 degrees - longitude= -1.63 degrees - altitudeMSL= 11880.74 meters
+GreatCircleRoute: final way-point= NAPEX - latitude= 53.20 degrees - longitude= -0.83 degrees - altitudeMSL= 11880.74 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 767548.79 meters - still to fly= 414.44 nautics
+FlightPath: passing waypoint: NAPEX - alt= 11880.74 meters - alt= 38978.34 feet - distance= 2807.05 nautics - real time = 21579.00 seconds - 5.00 hours 59.00 minutes 39.00 seconds
+DOLAS - latitude= 52.98 degrees - longitude= 1.00 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 100.76 degrees  to 100.77 degrees - turn step is= 3.00 degrees
+FlightPath: distance to last fix= 412.15699679274564 nautics
+FlightPath: still to fly= 414.44318822638303 nautics
+TurnLeg: tas= 476.27 knots - radius of turn= 22838.07 meters - radius of turn= 12.33 nautics
+TurnLeg: initial heading= 100.76 degrees
+TurnLeg: final heading= 101.37 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 280.70 degrees
+FlightPath: difference= -0.03 degrees
+FlightPath: anticipated turn start from end point= 84316885.19 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 412.02470731320483 nautics
+FlightPath: still to fly= 413.4881976799889 nautics
+GreatCircleRoute: initial way-point= turn-pt-1-101.37-degrees - latitude= 53.21 degrees - longitude= -0.86 degrees - altitudeMSL= 11880.74 meters
+GreatCircleRoute: final way-point= DOLAS - latitude= 52.98 degrees - longitude= 1.01 degrees - altitudeMSL= 11880.74 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 638372.99 meters - still to fly= 344.69 nautics
+FlightPath: passing waypoint: DOLAS - alt= 11880.74 meters - alt= 38978.34 feet - distance= 2876.80 nautics - real time = 22100.00 seconds - 6.00 hours 8.00 minutes 20.00 seconds
+ENITO - latitude= 52.80 degrees - longitude= 2.47 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 102.24 degrees  to 100.74 degrees - turn step is= -3.00 degrees
+FlightPath: distance to last fix= 343.56971624642796 nautics
+FlightPath: still to fly= 344.6938407168861 nautics
+TurnLeg: tas= 476.27 knots - radius of turn= 22838.07 meters - radius of turn= 12.33 nautics
+TurnLeg: initial heading= 102.24 degrees
+TurnLeg: final heading= 100.39 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 100.39 degrees
+FlightPath: difference= 1.18 degrees
+FlightPath: anticipated turn start from end point= 2208444.81 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 343.172845325354 nautics
+FlightPath: still to fly= 344.222164628304 nautics
+GreatCircleRoute: initial way-point= turn-pt-3-100.39-degrees - latitude= 52.98 degrees - longitude= 1.01 degrees - altitudeMSL= 11880.74 meters
+GreatCircleRoute: final way-point= ENITO - latitude= 52.80 degrees - longitude= 2.48 degrees - altitudeMSL= 11880.74 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 537043.81 meters - still to fly= 289.98 nautics
+FlightPath: passing waypoint: ENITO - alt= 11880.74 meters - alt= 38978.34 feet - distance= 2931.51 nautics - real time = 22513.00 seconds - 6.00 hours 15.00 minutes 13.00 seconds
+BUKUT - latitude= 52.76 degrees - longitude= 2.80 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 101.89 degrees  to 101.93 degrees - turn step is= 3.00 degrees
+FlightPath: distance to last fix= 289.32469477344563 nautics
+FlightPath: still to fly= 289.9804600997037 nautics
+TurnLeg: tas= 476.27 knots - radius of turn= 13123.19 meters - radius of turn= 7.09 nautics
+TurnLeg: initial heading= 101.89 degrees
+TurnLeg: final heading= 102.96 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 281.38 degrees
+FlightPath: difference= 6.20 degrees
+FlightPath: anticipated turn start from end point= 421633.75 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 289.19241936285147 nautics
+FlightPath: still to fly= 289.71916952264365 nautics
+GreatCircleRoute: initial way-point= turn-pt-1-102.96-degrees - latitude= 52.80 degrees - longitude= 2.47 degrees - altitudeMSL= 11880.74 meters
+GreatCircleRoute: final way-point= BUKUT - latitude= 52.75 degrees - longitude= 2.83 degrees - altitudeMSL= 11880.74 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 512058.53 meters - still to fly= 276.49 nautics
+FlightPath: passing waypoint: BUKUT - alt= 11880.74 meters - alt= 38978.34 feet - distance= 2945.00 nautics - real time = 22614.00 seconds - 6.00 hours 16.00 minutes 54.00 seconds
+EVELI - latitude= 52.64 degrees - longitude= 3.39 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 102.18 degrees  to 108.12 degrees - turn step is= 3.00 degrees
+FlightPath: distance to last fix= 276.9420488827034 nautics
+FlightPath: still to fly= 276.4894854912784 nautics
+TurnLeg: tas= 476.27 knots - radius of turn= 13123.19 meters - radius of turn= 7.09 nautics
+TurnLeg: initial heading= 102.18 degrees
+TurnLeg: final heading= 108.60 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 108.60 degrees
+FlightPath: difference= 3.17 degrees
+FlightPath: anticipated turn start from end point= 824869.77 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 276.14928033335826 nautics
+FlightPath: still to fly= 274.98095829182876 nautics
+GreatCircleRoute: initial way-point= turn-pt-6-108.60-degrees - latitude= 52.75 degrees - longitude= 2.82 degrees - altitudeMSL= 11880.74 meters
+GreatCircleRoute: final way-point= EVELI - latitude= 52.64 degrees - longitude= 3.41 degrees - altitudeMSL= 11880.74 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 467612.40 meters - still to fly= 252.49 nautics
+FlightPath: passing waypoint: EVELI - alt= 11880.74 meters - alt= 38978.34 feet - distance= 2969.00 nautics - real time = 22790.00 seconds - 6.00 hours 19.00 minutes 50.00 seconds
+BASNO - latitude= 52.35 degrees - longitude= 4.58 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 108.66 degrees  to 111.39 degrees - turn step is= 3.00 degrees
+FlightPath: distance to last fix= 254.43551844061125 nautics
+FlightPath: still to fly= 252.4904954385074 nautics
+TurnLeg: tas= 476.27 knots - radius of turn= 22838.07 meters - radius of turn= 12.33 nautics
+TurnLeg: initial heading= 108.66 degrees
+TurnLeg: final heading= 111.73 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 111.73 degrees
+FlightPath: difference= -18.83 degrees
+FlightPath: anticipated turn start from end point= 137693.86 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 253.77419150402102 nautics
+FlightPath: still to fly= 251.3168951149919 nautics
+GreatCircleRoute: initial way-point= turn-pt-5-111.73-degrees - latitude= 52.64 degrees - longitude= 3.40 degrees - altitudeMSL= 11880.74 meters
+GreatCircleRoute: final way-point= BASNO - latitude= 52.35 degrees - longitude= 4.58 degrees - altitudeMSL= 11880.74 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 379684.08 meters - still to fly= 205.01 nautics
+FlightPath: passing waypoint: BASNO - alt= 11880.74 meters - alt= 38978.34 feet - distance= 3016.48 nautics - real time = 23145.00 seconds - 6.00 hours 25.00 minutes 45.00 seconds
+PAMPUS - latitude= 52.33 degrees - longitude= 5.09 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 112.32 degrees  to 92.58 degrees - turn step is= -3.00 degrees
+FlightPath: distance to last fix= 207.58970178717948 nautics
+FlightPath: still to fly= 205.01300100521195 nautics
+TurnLeg: tas= 476.27 knots - radius of turn= 13123.19 meters - radius of turn= 7.09 nautics
+TurnLeg: initial heading= 112.32 degrees
+TurnLeg: final heading= 90.93 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 90.93 degrees
+FlightPath: difference= 36.33 degrees
+FlightPath: anticipated turn start from end point= 69598.08 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 204.99251344605057 nautics
+FlightPath: still to fly= 202.48624730103109 nautics
+GreatCircleRoute: initial way-point= turn-pt-20-90.93-degrees - latitude= 52.34 degrees - longitude= 4.65 degrees - altitudeMSL= 11880.74 meters
+GreatCircleRoute: final way-point= PAMPUS - latitude= 52.33 degrees - longitude= 5.11 degrees - altitudeMSL= 11880.74 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 343152.74 meters - still to fly= 185.29 nautics
+FlightPath: passing waypoint: PAMPUS - alt= 11880.74 meters - alt= 38978.34 feet - distance= 3036.20 nautics - real time = 23295.00 seconds - 6.00 hours 28.00 minutes 15.00 seconds
+LUNIX - latitude= 52.11 degrees - longitude= 5.57 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 91.63 degrees  to 127.62 degrees - turn step is= 3.00 degrees
+FlightPath: distance to last fix= 188.57744006216697 nautics
+FlightPath: still to fly= 185.28765806025362 nautics
+TurnLeg: tas= 476.27 knots - radius of turn= 13123.19 meters - radius of turn= 7.09 nautics
+TurnLeg: initial heading= 91.63 degrees
+TurnLeg: final heading= 132.27 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 132.27 degrees
+FlightPath: difference= -3.18 degrees
+FlightPath: anticipated turn start from end point= 823553.75 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 183.8741894481325 nautics
+FlightPath: still to fly= 179.74142881701965 nautics
+GreatCircleRoute: initial way-point= turn-pt-38-132.27-degrees - latitude= 52.30 degrees - longitude= 5.22 degrees - altitudeMSL= 11880.74 meters
+GreatCircleRoute: final way-point= LUNIX - latitude= 52.10 degrees - longitude= 5.59 degrees - altitudeMSL= 11880.74 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 298579.20 meters - still to fly= 161.22 nautics
+FlightPath: passing waypoint: LUNIX - alt= 11880.74 meters - alt= 38978.34 feet - distance= 3060.27 nautics - real time = 23473.00 seconds - 6.00 hours 31.00 minutes 13.00 seconds
+EDUPO - latitude= 51.98 degrees - longitude= 5.84 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 132.25 degrees  to 128.80 degrees - turn step is= -3.00 degrees
+FlightPath: distance to last fix= 166.52209320005875 nautics
+FlightPath: still to fly= 161.21987117310846 nautics
+TurnLeg: tas= 476.27 knots - radius of turn= 13123.19 meters - radius of turn= 7.09 nautics
+TurnLeg: initial heading= 132.25 degrees
+TurnLeg: final heading= 127.97 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 127.97 degrees
+FlightPath: difference= 2.17 degrees
+FlightPath: anticipated turn start from end point= 1206300.50 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 165.99307183053222 nautics
+FlightPath: still to fly= 159.78578998638142 nautics
+GreatCircleRoute: initial way-point= turn-pt-4-127.97-degrees - latitude= 52.10 degrees - longitude= 5.58 degrees - altitudeMSL= 11880.74 meters
+GreatCircleRoute: final way-point= EDUPO - latitude= 51.97 degrees - longitude= 5.85 degrees - altitudeMSL= 11880.74 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 271421.91 meters - still to fly= 146.56 nautics
+FlightPath: passing waypoint: EDUPO - alt= 11880.74 meters - alt= 38978.34 feet - distance= 3074.94 nautics - real time = 23577.00 seconds - 6.00 hours 32.00 minutes 57.00 seconds
+NAPRO - latitude= 51.86 degrees - longitude= 6.06 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 128.98 degrees  to 130.95 degrees - turn step is= 3.00 degrees
+FlightPath: distance to last fix= 153.6687467197677 nautics
+FlightPath: still to fly= 146.55610595501665 nautics
+TurnLeg: tas= 476.27 knots - radius of turn= 13123.19 meters - radius of turn= 7.09 nautics
+TurnLeg: initial heading= 128.98 degrees
+TurnLeg: final heading= 131.11 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 131.11 degrees
+FlightPath: difference= 0.38 degrees
+FlightPath: anticipated turn start from end point= 6881239.35 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 153.40417011779692 nautics
+FlightPath: still to fly= 145.65072038548593 nautics
+GreatCircleRoute: initial way-point= turn-pt-2-131.11-degrees - latitude= 51.97 degrees - longitude= 5.84 degrees - altitudeMSL= 11880.74 meters
+BadaAircraft ====================================
+BadaAircraft: entering descent configuration - distance flown 5689680.61 meters - distance flown 3072.18 nautics
+BadaAircraft: alt= 11880.74 meters alt= 38978.34 feet
+BadaAircraft: tas= 245.01 m/s - tas= 476.27 knots - cas= 133.04 m/s - cas= 258.60 knots - mach= 0.83
+BadaAircraft: real time = 23639.00 seconds - 6.00 hours 33.00 minutes 59.00 seconds
+BadaAircraft ====================================
+GreatCircleRoute: final way-point= NAPRO - latitude= 51.85 degrees - longitude= 6.06 degrees - altitudeMSL= 11656.48 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 249699.72 meters - still to fly= 134.83 nautics
+FlightPath: passing waypoint: NAPRO - alt= 11656.48 meters - alt= 38242.57 feet - distance= 3086.66 nautics - real time = 23661.00 seconds - 6.00 hours 34.00 minutes 21.00 seconds
+AMOSU - latitude= 51.64 degrees - longitude= 6.46 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 131.13 degrees  to 131.34 degrees - turn step is= 3.00 degrees
+FlightPath: distance to last fix= 142.7102879373198 nautics
+FlightPath: still to fly= 134.82706016989167 nautics
+TurnLeg: tas= 469.31 knots - radius of turn= 12742.42 meters - radius of turn= 6.88 nautics
+TurnLeg: initial heading= 131.13 degrees
+TurnLeg: final heading= 132.22 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 212.81 degrees
+FlightPath: difference= 0.30 degrees
+FlightPath: anticipated turn start from end point= 8346741.56 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 142.58014183256097 nautics
+FlightPath: still to fly= 134.8245720677147 nautics
+GreatCircleRoute: initial way-point= turn-pt-1-132.22-degrees - latitude= 51.85 degrees - longitude= 6.06 degrees - altitudeMSL= 11646.37 meters
+GreatCircleRoute: final way-point= AMOSU - latitude= 51.64 degrees - longitude= 6.46 degrees - altitudeMSL= 10124.27 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 213388.09 meters - still to fly= 115.22 nautics
+FlightPath: passing waypoint: AMOSU - alt= 10124.27 meters - alt= 33215.70 feet - distance= 3106.27 nautics - real time = 23821.00 seconds - 6.00 hours 37.00 minutes 1.00 seconds
+MISGO - latitude= 51.40 degrees - longitude= 6.88 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 131.64 degrees  to 131.64 degrees - turn step is= -3.00 degrees
+FlightPath: distance to last fix= 123.02934416603587 nautics
+FlightPath: still to fly= 115.22035048470197 nautics
+TurnLeg: tas= 420.33 knots - radius of turn= 17788.05 meters - radius of turn= 9.60 nautics
+TurnLeg: initial heading= 131.64 degrees
+TurnLeg: final heading= 130.95 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 130.36 degrees
+FlightPath: difference= 12.08 degrees
+FlightPath: anticipated turn start from end point= 167858.49 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 122.91278008965342 nautics
+FlightPath: still to fly= 115.15719450784768 nautics
+GreatCircleRoute: initial way-point= turn-pt-1-130.95-degrees - latitude= 51.64 degrees - longitude= 6.46 degrees - altitudeMSL= 10115.22 meters
+GreatCircleRoute: final way-point= MISGO - latitude= 51.40 degrees - longitude= 6.88 degrees - altitudeMSL= 8485.13 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 174371.21 meters - still to fly= 94.15 nautics
+FlightPath: passing waypoint: MISGO - alt= 8485.13 meters - alt= 27838.01 feet - distance= 3127.34 nautics - real time = 24015.00 seconds - 6.00 hours 40.00 minutes 15.00 seconds
+COLA - latitude= 50.78 degrees - longitude= 7.59 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 131.97 degrees  to 143.73 degrees - turn step is= 3.00 degrees
+FlightPath: distance to last fix= 101.91464052727885 nautics
+FlightPath: still to fly= 94.1529198785788 nautics
+TurnLeg: tas= 365.36 knots - radius of turn= 13439.94 meters - radius of turn= 7.26 nautics
+TurnLeg: initial heading= 131.97 degrees
+TurnLeg: final heading= 144.70 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 144.70 degrees
+FlightPath: difference= 13.17 degrees
+FlightPath: anticipated turn start from end point= 113711.57 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 100.31197374508181 nautics
+FlightPath: still to fly= 92.5467476502174 nautics
+GreatCircleRoute: initial way-point= turn-pt-16-144.70-degrees - latitude= 51.38 degrees - longitude= 6.90 degrees - altitudeMSL= 8360.93 meters
+GreatCircleRoute: final way-point= COLA - latitude= 50.78 degrees - longitude= 7.60 degrees - altitudeMSL= 4899.79 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 88798.00 meters - still to fly= 47.95 nautics
+FlightPath: passing waypoint: COLA - alt= 4899.79 meters - alt= 16075.22 feet - distance= 3173.54 nautics - real time = 24576.00 seconds - 6.00 hours 49.00 minutes 36.00 seconds
+ROLIS - latitude= 50.44 degrees - longitude= 7.83 degrees - altitudeMSL= 0.00 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 144.47 degrees  to 157.10 degrees - turn step is= 3.00 degrees
+FlightPath: distance to last fix= 55.76664568998878 nautics
+FlightPath: still to fly= 47.94708212345458 nautics
+TurnLeg: tas= 235.55 knots - radius of turn= 5586.36 meters - radius of turn= 3.02 nautics
+TurnLeg: initial heading= 144.47 degrees
+TurnLeg: final heading= 158.06 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 158.06 degrees
+FlightPath: difference= -18.63 degrees
+FlightPath: anticipated turn start from end point= 33442.02 meters
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 55.05578267656739 nautics
+FlightPath: still to fly= 47.285759591001046 nautics
+GreatCircleRoute: initial way-point= turn-pt-11-158.06-degrees - latitude= 50.77 degrees - longitude= 7.60 degrees - altitudeMSL= 4844.63 meters
+GreatCircleRoute: final way-point= ROLIS - latitude= 50.43 degrees - longitude= 7.83 degrees - altitudeMSL= 3136.73 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= 46774.94 meters - still to fly= 25.26 nautics
+FlightPath: passing waypoint: ROLIS - alt= 3136.73 meters - alt= 10290.99 feet - distance= 3196.24 nautics - real time = 24988.00 seconds - 6.00 hours 56.00 minutes 28.00 seconds
+turn-pt-78-319.64-degrees - latitude= 50.02 degrees - longitude= 8.39 degrees - altitudeMSL= 596.24 meters
+ ================== one Turn Leg for each fix in the list =============== 
+TurnLeg: turn from= 157.45 degrees  to 138.64 degrees - turn step is= -3.00 degrees
+FlightPath: distance to last fix= 33.046950740395985 nautics
+FlightPath: still to fly= 25.256449001491127 nautics
+TurnLeg: tas= 165.69 knots - radius of turn= 2764.03 meters - radius of turn= 1.49 nautics
+TurnLeg: initial heading= 157.45 degrees
+TurnLeg: final heading= 138.14 degrees
+ ==================== end of turn leg  ==================== 
+FlightPath: end of turn orientation= 138.14 degrees
+ ==================== great circle ======================== 
+FlightPath: distance to last fix= 32.55142781719736 nautics
+FlightPath: still to fly= 24.77374216676112 nautics
+GreatCircleRoute: initial way-point= turn-pt-11-138.14-degrees - latitude= 50.43 degrees - longitude= 7.83 degrees - altitudeMSL= 3098.02 meters
+BadaAircraft ====================================
+BadaAircraft: entering approach configuration - distance flown 5937659.96 meters - distance flown 3206.08 nautics
+BadaAircraft: alt= 1597.10 meters alt= 5239.76 feet
+BadaAircraft: tas= 51.13 m/s - tas= 99.39 knots - cas= 47.36 m/s - cas= 92.06 knots - mach= 0.15
+BadaAircraft: real time = 25539.00 seconds - 7.00 hours 5.00 minutes 39.00 seconds
+BadaAircraft ====================================
+BadaAircraft: distance to approach fix= 13039.43 meters - delta altitude to approach fix= -540.09 meters
+BadaAircraft ====================================
+BadaAircraft: entering landing configuration - distance flown 5949025.03 meters - distance flown 3212.22 nautics
+BadaAircraft: alt= 1126.34 meters alt= 3695.29 feet
+BadaAircraft: tas= 46.10 m/s - tas= 89.61 knots - cas= 43.73 m/s - cas= 85.00 knots - mach= 0.14
+BadaAircraft: real time = 25773.00 seconds - 7.00 hours 9.00 minutes 33.00 seconds
+BadaAircraft ====================================
+GreatCircleRoute: final way-point= turn-pt-78-319.64-degrees - latitude= 50.02 degrees - longitude= 8.39 degrees - altitudeMSL= 573.18 meters
+ ================== end of great circle ================== 
+FlightPath: still to fly= -14427.71 meters - still to fly= -7.79 nautics
+FlightPath: passing waypoint: turn-pt-78-319.64-degrees - alt= 573.18 meters - alt= 1880.48 feet - distance= 3229.28 nautics - real time = 26068.00 seconds - 7.00 hours 14.00 minutes 28.00 seconds
+FlightPath==================== add last turn ==================== 
+FlightPath: runway final heading= 69.60 degrees
+TurnLeg: turn from= 138.95 degrees  to 80.16 degrees - turn step is= -3.00 degrees
+TurnLeg: tas= 94.39 knots - radius of turn= 2747.50 meters - radius of turn= 1.48 nautics
+TurnLeg: initial heading= 138.95 degrees
+TurnLeg: final heading= 69.56 degrees
+FlightPath: distance still to fly= 5.42 nautics
+DescentGlideSlope: airport field Elevation Above Sea Level= 110.95 meters
+DescentGlideSlope: distance from RunWay - TouchDown to RunWay - End= 1490.0000000003379 meters
+DescentGlideSlope: bearing from touch-down to runway end= 69.59 degrees
+BadaAircraft: distance to runway touch-down= 319.07 meters - delta altitude to runway touch-down= -11.23 meters
+BadaAircraft ====================================
+BadaAircraft: entering arrival-ground-run configuration - distance flown 5975141.30 meters - distance flown 3226.32 nautics
+BadaAircraft: alt= 112.18 meters alt= 368.05 feet
+BadaAircraft: tas= 37.58 m/s - tas= 73.04 knots - cas= 37.39 m/s - cas= 72.68 knots - mach= 0.11
+BadaAircraft: real time = 26394.70 seconds - 7.00 hours 19.00 minutes 54.70 seconds
+BadaAircraft ====================================
+GroundRunLeg: ground run - run-way true heading= 249.6 degrees
+BadaAircraft: taxi speed reached => end of simulation
+FlightPath ========== delta mass status ==============
+FlightPath: initial mass= 120000.00 kilograms = 264554.71 pounds
+FlightPath: final mass= 91425.32 kilograms = 201558.33 pounds
+FlightPath: diff mass= 28574.68 kilograms = 62996.38 pounds
+FlightPath ========== delta mass status ==============
+simulation duration= 0.7460295880000001 seconds
+=========== Flight Plan create output files  =========== Sun Apr 14 13:35:46 2019
+KmlOutput: file path= C:\Users\PASTOR Robert\workspace\FlightDynamics-3.7\Home\OutputFiles\..\ResultsFiles\Montreal-Montreal-Intl-Mirabel-Rwy-06-Frankfurt-Frankfurt-Main-rwy-25C-14-Apr-2019-13h35m47.kml
+XlsxOutput: file folder= C:\Users\PASTOR Robert\workspace\FlightDynamics-3.7\Home\OutputFiles
+XlsxOutput: file path= C:\Users\PASTOR Robert\workspace\FlightDynamics-3.7\Home\OutputFiles\A310-CYMX-EDDF-Altitude-MSL-Speed-History
+XlsxOutput: file path= C:\Users\PASTOR Robert\workspace\FlightDynamics-3.7\Home\OutputFiles\A310-CYMX-EDDF-Altitude-MSL-Speed-History-14-Apr-2019-13h35m48.xlsx
+FlightPath: final route length= 3236.5871314635638 nautics
+=========== Flight Plan end  =========== Sun Apr 14 13:35:49 2019
